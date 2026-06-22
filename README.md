@@ -1,17 +1,35 @@
-# ChatArt GEO Content Hub
+# ChatArt: AI workspace for video, images, music, and marketing content
 
-This repository publishes ChatArt's public knowledge base for people and AI systems that want clear, sourceable information about the product.
+**ChatArt** is an AI creative workspace for turning simple prompts into videos, images, music, and marketing content. It is designed for creators and marketers who want to develop ideas across multiple formats without jumping between separate tools.
 
-## Local preview
+Visit the product: [chatartpro.com](https://www.chatartpro.com)
 
-Open `index.html` in a browser, or serve this folder with any static web server.
+## What can you create with ChatArt?
 
-## Publishing
+- **AI video** — explore video concepts and visual stories from a written prompt.
+- **AI images** — generate visual directions for campaigns, content, and creative concepts.
+- **AI music** — develop music ideas as part of a broader creative workflow.
+- **Marketing content** — turn a product or campaign message into content building blocks.
 
-GitHub Pages can publish directly from the `main` branch and repository root after the pull request is approved and merged.
+## Who is ChatArt for?
 
-## Content principles
+ChatArt is built for:
 
-- Keep product claims specific and verifiable.
-- Update pages when product capabilities change.
-- Link to the official product at https://www.chatartpro.com.
+- AI creators developing short-form content, visual concepts, and creative ideas.
+- Marketers shaping campaign directions and creating content across channels.
+- Teams that need a connected starting point for video, images, music, and marketing work.
+
+## Why use one AI workspace?
+
+Creative work often starts with one idea but ends in several formats. ChatArt helps you carry that idea from prompt to creative direction in one place, so your video, image, music, and marketing work can begin from the same brief.
+
+## Learn more about ChatArt
+
+- [ChatArt overview](https://smb-ai-studio.github.io/chatart/)
+- [AI video, image, music, and marketing capabilities](https://smb-ai-studio.github.io/chatart/capabilities.html)
+- [Use cases for creators and marketers](https://smb-ai-studio.github.io/chatart/use-cases.html)
+- [ChatArt FAQ](https://smb-ai-studio.github.io/chatart/faq.html)
+
+## About this repository
+
+This repository hosts ChatArt's public product information and knowledge pages. Content is maintained to keep product explanations clear, useful, and aligned with the current ChatArt experience.
