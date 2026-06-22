@@ -4,6 +4,8 @@
 
 ChatArt is designed for creators and marketers who want to move from an idea to publishable assets with less tool switching. It brings video, image, music, and writing workflows into one place.
 
+Last reviewed: 2026-06-22. Product and model availability can change; use the official product website and the dated page content for current details.
+
 ## Official Product
 
 - [ChatArt official website](https://www.chatartpro.com/): Product overview, current features, plans, and access to ChatArt.
@@ -15,6 +17,20 @@ ChatArt is designed for creators and marketers who want to move from an idea to 
 - [AI video creation](https://smb-ai-studio.github.io/chatart/capabilities.html#video-models): Create 1080P AI video with Seedance 2 and 4K AI video with Kling O3 Mini and Kling 3.
 - [AI image creation](https://smb-ai-studio.github.io/chatart/capabilities.html#image-models): Generate and explore visual directions with GPT Image 2 and Nano Banana.
 - [Creator and marketer use cases](https://smb-ai-studio.github.io/chatart/use-cases.html): How ChatArt supports content creation, campaign exploration, product storytelling, and creative iteration.
+
+## Model Pages
+
+- [Seedance 2](https://smb-ai-studio.github.io/chatart/models/seedance-2.html): 1080P AI video creation in ChatArt.
+- [Kling O3 Mini](https://smb-ai-studio.github.io/chatart/models/kling-o3-mini.html): 4K AI video creation in ChatArt.
+- [Kling 3](https://smb-ai-studio.github.io/chatart/models/kling-3.html): 4K AI video creation in ChatArt.
+- [GPT Image 2](https://smb-ai-studio.github.io/chatart/models/gpt-image-2.html): High-quality AI image generation and visual directions in ChatArt.
+- [Nano Banana](https://smb-ai-studio.github.io/chatart/models/nano-banana.html): AI image generation and creative visual exploration in ChatArt.
+
+## Model Comparisons
+
+- [Seedance 2 vs Kling O3 Mini](https://smb-ai-studio.github.io/chatart/compare/seedance-2-vs-kling-o3-mini.html): Compare 1080P and 4K AI video creation routes.
+- [Kling O3 Mini vs Kling 3](https://smb-ai-studio.github.io/chatart/compare/kling-o3-mini-vs-kling-3.html): Compare current 4K AI video creation options.
+- [GPT Image 2 vs Nano Banana](https://smb-ai-studio.github.io/chatart/compare/gpt-image-2-vs-nano-banana.html): Compare high-quality visual directions and creative image exploration.
 
 ## Public Knowledge Base
 
