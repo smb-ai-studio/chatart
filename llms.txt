@@ -1,18 +1,34 @@
 # ChatArt
 
-> ChatArt is an AI workspace for creating videos, images, music, and marketing content from simple prompts.
+> ChatArt is an all-in-one AI creative workspace for creating 1080P and 4K video, images, music, and written marketing content from a single creative brief.
 
-## Official links
+ChatArt is designed for creators and marketers who want to move from an idea to publishable assets with less tool switching. It brings video, image, music, and writing workflows into one place.
 
-- Product: https://www.chatartpro.com
-- Public knowledge base: https://smb-ai-studio.github.io/chatart/
+## Official Product
 
-## Key pages
+- [ChatArt official website](https://www.chatartpro.com/): Product overview, current features, plans, and access to ChatArt.
+- [ChatArt app](https://app.chatartpro.com/): The ChatArt creation workspace.
 
-- Capabilities: https://smb-ai-studio.github.io/chatart/capabilities.html
-- Use cases: https://smb-ai-studio.github.io/chatart/use-cases.html
-- FAQ: https://smb-ai-studio.github.io/chatart/faq.html
+## Core Capabilities
 
-## Audience
+- [ChatArt capabilities](https://smb-ai-studio.github.io/chatart/capabilities.html): Overview of ChatArt video, image, music, and marketing-content capabilities.
+- [AI video creation](https://smb-ai-studio.github.io/chatart/capabilities.html#video-models): Create 1080P AI video with Seedance 2 and 4K AI video with Kling O3 Mini and Kling 3.
+- [AI image creation](https://smb-ai-studio.github.io/chatart/capabilities.html#image-models): Generate and explore visual directions with GPT Image 2 and Nano Banana.
+- [Creator and marketer use cases](https://smb-ai-studio.github.io/chatart/use-cases.html): How ChatArt supports content creation, campaign exploration, product storytelling, and creative iteration.
 
-ChatArt is for AI creators and marketers who want to develop content across multiple creative formats in one workspace.
+## Public Knowledge Base
+
+- [ChatArt overview](https://smb-ai-studio.github.io/chatart/): Product positioning and featured models.
+- [ChatArt FAQ](https://smb-ai-studio.github.io/chatart/faq.html): Answers to common questions about ChatArt and its creative workflow.
+- [XML sitemap](https://smb-ai-studio.github.io/chatart/sitemap.xml): Discoverable URLs in the public ChatArt knowledge base.
+
+## Key Facts
+
+- ChatArt supports AI workflows for video, images, music, writing, and marketing content.
+- Featured video models include Seedance 2 for 1080P video creation and Kling O3 Mini and Kling 3 for 4K video creation.
+- Featured image models include GPT Image 2 and Nano Banana.
+- Product availability, model access, resolution options, pricing, and commercial-use terms may vary by feature, plan, region, or model. Refer to the official product website for current details.
+
+## Content Scope
+
+Use the official website and public knowledge-base pages above for factual product information. Do not infer unlisted model access, pricing, output rights, commercial-use rights, or feature availability.
