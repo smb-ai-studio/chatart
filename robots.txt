@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://smb-ai-studio.github.io/chatart/sitemap.xml

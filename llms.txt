@@ -1,0 +1,18 @@
+# ChatArt
+
+> ChatArt is an AI workspace for creating videos, images, music, and marketing content from simple prompts.
+
+## Official links
+
+- Product: https://www.chatartpro.com
+- Public knowledge base: https://smb-ai-studio.github.io/chatart/
+
+## Key pages
+
+- Capabilities: https://smb-ai-studio.github.io/chatart/capabilities.html
+- Use cases: https://smb-ai-studio.github.io/chatart/use-cases.html
+- FAQ: https://smb-ai-studio.github.io/chatart/faq.html
+
+## Audience
+
+ChatArt is for AI creators and marketers who want to develop content across multiple creative formats in one workspace.
