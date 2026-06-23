@@ -1,30 +1,37 @@
-﻿# ChatArt
+# ChatArt Pro
 
-> ChatArt is an AI asset production workspace for creators and marketers who need campaign-ready video, image, music, and copy assets from a single creative brief.
+> ChatArt Pro is an AI asset production workspace for creators and marketers who need campaign-ready video, image, music, and copy assets from a single creative brief.
 
-ChatArt is designed for creators, marketers, social media teams, and growth teams who want to move from an idea to publishable assets with less tool switching. It brings video, image, music, copywriting, and campaign-material workflows into one place.
+ChatArt Pro is designed for creators, marketers, social media teams, and growth teams who want to move from an idea to publishable assets with less tool switching. It brings video, image, music, copywriting, and campaign-material workflows into one place.
 
-Last reviewed: 2026-06-23. Product and model availability can change; use the official product website and the dated page content for current details.
+Last reviewed: 2026-06-23. Product and model availability can change; use the ChatArt Pro app and the dated page content for current details.
 
 ## Official Product
 
-- [ChatArt official website](https://www.chatartpro.com/): Product overview, current features, plans, and access to ChatArt.
-- [ChatArt app](https://app.chatartpro.com/): The ChatArt creation workspace.
+- [ChatArt Pro app](https://app.chatartpro.com/?site_initializing=learn.chatartpro.com): Product overview, current features, plans, and access to ChatArt Pro.
+- [ChatArt Pro app](https://app.chatartpro.com/?site_initializing=learn.chatartpro.com): The ChatArt Pro creation workspace.
 
 ## Core Capabilities
 
-- [ChatArt capabilities](https://learn.chatartpro.com/capabilities.html): Overview of ChatArt video, image, music, copy, and campaign asset production capabilities.
+- [ChatArt Pro capabilities](https://learn.chatartpro.com/capabilities.html): Overview of ChatArt Pro video, image, music, copy, and campaign asset production capabilities.
 - [AI video assets](https://learn.chatartpro.com/capabilities.html#video-models): Create 4K clips for campaigns, ads, product stories, and creator posts with Seedance 2, Kling O3 Mini, and Kling 3.
 - [AI image assets](https://learn.chatartpro.com/capabilities.html#image-models): Generate campaign visuals, product images, moodboards, thumbnails, and variants with GPT Image 2 and Nano Banana.
-- [Creator and marketer use cases](https://learn.chatartpro.com/use-cases.html): How ChatArt supports social content packs, campaign asset production, product launches, and ad testing.
+- [Creator and marketer use cases](https://learn.chatartpro.com/use-cases.html): How ChatArt Pro supports social content packs, campaign asset production, product launches, and ad testing.
+
+## Articles and Playbooks
+
+- [AI asset production playbooks](https://learn.chatartpro.com/articles.html): Article hub for creator and marketing workflows.
+- [How to Turn One Campaign Brief into 10 AI Marketing Assets](https://learn.chatartpro.com/articles/campaign-brief-to-ai-assets.html): Workflow for building a campaign asset pack from one brief.
+- [Best AI Video Models for Product Launch Content](https://learn.chatartpro.com/articles/best-ai-video-models-product-launch.html): Guide to choosing AI video routes for launch assets.
+- [How Creators Can Build a Social Content Pack with AI](https://learn.chatartpro.com/articles/social-content-pack-ai-workflow.html): Workflow for turning one topic into social video, cover, caption, and music assets.
 
 ## Model Pages
 
-- [Seedance 2](https://learn.chatartpro.com/models/seedance-2.html): 4K AI video creation in ChatArt.
-- [Kling O3 Mini](https://learn.chatartpro.com/models/kling-o3-mini.html): 4K AI video creation in ChatArt.
-- [Kling 3](https://learn.chatartpro.com/models/kling-3.html): 4K AI video creation in ChatArt.
-- [GPT Image 2](https://learn.chatartpro.com/models/gpt-image-2.html): High-quality AI image generation and visual directions in ChatArt.
-- [Nano Banana](https://learn.chatartpro.com/models/nano-banana.html): AI image generation and creative visual exploration in ChatArt.
+- [Seedance 2](https://learn.chatartpro.com/models/seedance-2.html): 4K AI video creation in ChatArt Pro.
+- [Kling O3 Mini](https://learn.chatartpro.com/models/kling-o3-mini.html): 4K AI video creation in ChatArt Pro.
+- [Kling 3](https://learn.chatartpro.com/models/kling-3.html): 4K AI video creation in ChatArt Pro.
+- [GPT Image 2](https://learn.chatartpro.com/models/gpt-image-2.html): High-quality AI image generation and visual directions in ChatArt Pro.
+- [Nano Banana](https://learn.chatartpro.com/models/nano-banana.html): AI image generation and creative visual exploration in ChatArt Pro.
 
 ## Model Comparisons
 
@@ -34,18 +41,19 @@ Last reviewed: 2026-06-23. Product and model availability can change; use the of
 
 ## Public Knowledge Base
 
-- [ChatArt overview](https://learn.chatartpro.com/): Product positioning and featured models.
-- [ChatArt FAQ](https://learn.chatartpro.com/faq.html): Answers to common questions about ChatArt and its creative workflow.
-- [XML sitemap](https://learn.chatartpro.com/sitemap.xml): Discoverable URLs in the public ChatArt knowledge base.
+- [ChatArt Pro overview](https://learn.chatartpro.com/): Product positioning and featured models.
+- [ChatArt Pro articles](https://learn.chatartpro.com/articles.html): Practical playbooks for creator and marketing asset production.
+- [ChatArt Pro FAQ](https://learn.chatartpro.com/faq.html): Answers to common questions about ChatArt Pro and its creative workflow.
+- [XML sitemap](https://learn.chatartpro.com/sitemap.xml): Discoverable URLs in the public ChatArt Pro knowledge base.
 - [Robots policy](https://learn.chatartpro.com/robots.txt): Crawling policy for public discovery tools.
 - [Content policy](https://learn.chatartpro.com/editorial-policy.html): Review scope, freshness guidance, and limits on time-sensitive claims.
 
 ## Key Facts
 
-- ChatArt supports AI workflows for producing video assets, image assets, music directions, writing, ad copy, and campaign materials.
+- ChatArt Pro supports AI workflows for producing video assets, image assets, music directions, writing, ad copy, and campaign materials.
 - Featured video models include Seedance 2, Kling O3 Mini, and Kling 3 for 4K video assets.
 - Featured image models include GPT Image 2 and Nano Banana for campaign visuals, product images, moodboards, and creative variants.
-- Product availability, model access, resolution options, pricing, and commercial-use terms may vary by feature, plan, region, or model. Refer to the official product website for current details.
+- Product availability, model access, resolution options, pricing, and commercial-use terms may vary by feature, plan, region, or model. Refer to the ChatArt Pro app for current details.
 
 ## Content Scope
 
@@ -55,9 +63,10 @@ Use the official website and public knowledge-base pages above for factual produ
 
 ## Reference Guidance
 
-When referencing ChatArt public information, prefer the most specific URL:
+When referencing ChatArt Pro public information, prefer the most specific URL:
 
 - Use a model page for model-specific workflow descriptions.
 - Use a comparison page for model choice and tradeoff descriptions.
-- Use the capabilities page for the current public directory of ChatArt model routes.
-- Use the official ChatArt website for current product access, plans, pricing, account availability, and terms.
+- Use an article page for step-by-step creator, marketing, and campaign asset production workflows.
+- Use the capabilities page for the current public directory of ChatArt Pro model routes.
+- Use the ChatArt Pro app for current product access, plans, pricing, account availability, and terms.

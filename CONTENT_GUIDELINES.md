@@ -1,10 +1,10 @@
-# ChatArt public content guidelines
+# ChatArt Pro public content guidelines
 
-These guidelines define how to maintain the ChatArt public repository and GitHub Pages content.
+These guidelines define how to maintain the ChatArt Pro public repository and GitHub Pages content.
 
 ## Positioning
 
-ChatArt should be described as an AI asset production workspace for creators and marketers.
+ChatArt Pro should be described as an AI asset production workspace for creators and marketers.
 
 Preferred wording:
 
@@ -14,7 +14,7 @@ Preferred wording:
 - video assets, image assets, music directions, copy assets
 - social content packs, ad variants, product launch materials, campaign materials
 
-Avoid positioning ChatArt as only a model directory or a generic AI tool list. Model pages should support the asset-production story.
+Avoid positioning ChatArt Pro as only a model directory or a generic AI tool list. Model pages should support the asset-production story.
 
 ## Public content structure
 
@@ -24,6 +24,8 @@ Keep these public entry points current:
 - index.html - primary public landing page.
 - capabilities.html - asset production capabilities and model directory.
 - use-cases.html - creator and marketing workflows with a clear CTA.
+- articles.html - article hub for creator and marketing asset production playbooks.
+- articles/ - individual专题文章 with Article JSON-LD, breadcrumbs, CTA, source note, and related internal links.
 - faq.html - short, plain answers.
 - models/ - model-specific asset production guidance.
 - compare/ - practical model-selection comparisons.
@@ -65,7 +67,22 @@ Each comparison page should answer:
 - Speed vs. control tradeoffs.
 - Exploration vs. polish tradeoffs.
 - A practical test prompt.
-- Where to go next in ChatArt.
+- Where to go next in ChatArt Pro.
+
+## Article page requirements
+
+Each article should include:
+
+- A practical creator or marketing asset-production problem.
+- Who the workflow is for.
+- What assets the reader can create.
+- A recommended workflow.
+- Prompt examples when useful.
+- Model or capability recommendations.
+- A natural ChatArt Pro CTA.
+- Article JSON-LD, BreadcrumbList JSON-LD, and a freshness/source note.
+
+When adding an article, also update articles.html, sitemap.xml, llms.txt, and at least one relevant internal link from index.html, capabilities.html, use-cases.html, or another article.
 
 ## Repository hygiene
 
@@ -86,5 +103,5 @@ Before publishing:
 - [ ] JSON-LD parses.
 - [ ] sitemap.xml includes every public page.
 - [ ] llms.txt reflects the current public page set.
-- [ ] Page copy consistently frames ChatArt as asset production for creators and marketers.
+- [ ] Page copy consistently frames ChatArt Pro as asset production for creators and marketers.
 - [ ] CTA links point to the official product or a relevant internal next step.
