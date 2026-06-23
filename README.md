@@ -1,4 +1,4 @@
-# ChatArt: AI asset production for creators and marketers
+﻿# ChatArt: AI asset production for creators and marketers
 
 **ChatArt** is an AI asset production workspace for creators, marketers, social media teams, and growth teams. It helps teams turn one creative brief into campaign-ready videos, images, music directions, captions, ad copy, and supporting marketing materials.
 
@@ -31,12 +31,12 @@ ChatArt is built for:
 
 ## Public pages
 
-- [ChatArt overview](https://smb-ai-studio.github.io/chatart/)
-- [Asset production capabilities](https://smb-ai-studio.github.io/chatart/capabilities.html)
-- [Use cases for creators and marketers](https://smb-ai-studio.github.io/chatart/use-cases.html)
-- [ChatArt FAQ](https://smb-ai-studio.github.io/chatart/faq.html)
-- [Content policy](https://smb-ai-studio.github.io/chatart/editorial-policy.html)
-- [Plain-text site map](https://smb-ai-studio.github.io/chatart/llms.txt)
+- [ChatArt overview](https://learn.chatartpro.com/)
+- [Asset production capabilities](https://learn.chatartpro.com/capabilities.html)
+- [Use cases for creators and marketers](https://learn.chatartpro.com/use-cases.html)
+- [ChatArt FAQ](https://learn.chatartpro.com/faq.html)
+- [Content policy](https://learn.chatartpro.com/editorial-policy.html)
+- [Plain-text site map](https://learn.chatartpro.com/llms.txt)
 
 ## Content scope
 

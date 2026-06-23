@@ -1,4 +1,4 @@
-User-agent: *
+﻿User-agent: *
 Allow: /
 
 User-agent: GPTBot
@@ -19,4 +19,4 @@ Allow: /
 User-agent: GoogleOther
 Allow: /
 
-Sitemap: https://smb-ai-studio.github.io/chatart/sitemap.xml
+Sitemap: https://learn.chatartpro.com/sitemap.xml
