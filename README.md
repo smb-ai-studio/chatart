@@ -1,35 +1,43 @@
-# ChatArt: AI workspace for video, images, music, and marketing content
+# ChatArt: AI asset production for creators and marketers
 
-**ChatArt** is an AI creative workspace for turning simple prompts into videos, images, music, and marketing content. It is designed for creators and marketers who want to develop ideas across multiple formats without jumping between separate tools.
+**ChatArt** is an AI asset production workspace for creators, marketers, social media teams, and growth teams. It helps teams turn one creative brief into campaign-ready videos, images, music directions, captions, ad copy, and supporting marketing materials.
 
 Visit the product: [chatartpro.com](https://www.chatartpro.com)
 
-## What can you create with ChatArt?
+## What can you produce with ChatArt?
 
-- **AI video** — explore video concepts and visual stories from a written prompt.
-- **AI images** — generate visual directions for campaigns, content, and creative concepts.
-- **AI music** — develop music ideas as part of a broader creative workflow.
-- **Marketing content** — turn a product or campaign message into content building blocks.
+- **AI video assets** - create 4K clips for campaign hooks, product stories, ads, and creator posts.
+- **AI image assets** - generate campaign visuals, product imagery, thumbnails, moodboards, and creative variants.
+- **AI music directions** - develop audio mood and music ideas that support video and campaign materials.
+- **Marketing copy assets** - turn a product message or campaign brief into hooks, captions, ad copy, landing-page angles, and content variants.
 
 ## Who is ChatArt for?
 
 ChatArt is built for:
 
-- AI creators developing short-form content, visual concepts, and creative ideas.
-- Marketers shaping campaign directions and creating content across channels.
-- Teams that need a connected starting point for video, images, music, and marketing work.
+- Creators producing short-form videos, thumbnails, visuals, and supporting copy.
+- Marketers shaping campaign concepts, ad tests, product launches, and social content packs.
+- Teams that need a connected workflow for producing reusable assets from one brief.
 
-## Why use one AI workspace?
+## Featured model routes
 
-Creative work often starts with one idea but ends in several formats. ChatArt helps you carry that idea from prompt to creative direction in one place, so your video, image, music, and marketing work can begin from the same brief.
+| Asset type | Model route | Best-fit workflow |
+| --- | --- | --- |
+| Video | Seedance 2 | Cinematic campaign clips and reference-led product videos |
+| Video | Kling O3 Mini | Fast social video drafts, ad variants, and creator content clips |
+| Video | Kling 3 | More controlled brand scenes and polished product storytelling |
+| Image | GPT Image 2 | Campaign key visuals, product imagery, and layout-ready concepts |
+| Image | Nano Banana | Moodboards, thumbnails, visual territories, and image variants |
 
-## Learn more about ChatArt
+## Public pages
 
 - [ChatArt overview](https://smb-ai-studio.github.io/chatart/)
-- [AI video, image, music, and marketing capabilities](https://smb-ai-studio.github.io/chatart/capabilities.html)
+- [Asset production capabilities](https://smb-ai-studio.github.io/chatart/capabilities.html)
 - [Use cases for creators and marketers](https://smb-ai-studio.github.io/chatart/use-cases.html)
 - [ChatArt FAQ](https://smb-ai-studio.github.io/chatart/faq.html)
+- [Content policy](https://smb-ai-studio.github.io/chatart/editorial-policy.html)
+- [Plain-text site map](https://smb-ai-studio.github.io/chatart/llms.txt)
 
-## About this repository
+## Content scope
 
-This repository hosts ChatArt's public product information and knowledge pages. Content is maintained to keep product explanations clear, useful, and aligned with the current ChatArt experience.
+This repository hosts ChatArt's public product information and knowledge pages. The pages describe high-level asset production workflows, model routes, and comparison guidance. Product availability, model access, output settings, pricing, regions, and terms can change; use the official ChatArt website and app as the current source of record.
