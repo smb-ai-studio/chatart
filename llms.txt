@@ -21,6 +21,8 @@ Last reviewed: 2026-06-23. Product and model availability can change; use the Ch
 ## Articles and Playbooks
 
 - [AI asset production playbooks](https://learn.chatartpro.com/articles.html): Article hub for creator and marketing workflows.
+- [Seedance 2.5 Model Introduction Video Script](https://learn.chatartpro.com/articles/seedance-2-5-model-intro-video-script.html): Model intro video script covering multi-shot consistency, camera control, audio sync, and marketing use cases.
+- [Seedance 2 Guide for AI Video Workflows](https://learn.chatartpro.com/articles/seedance-2-guide-ai-video-workflow.html): Guide to planning multimodal Seedance 2 video assets with text, image, video, and audio references.
 - [How to Turn One Campaign Brief into 10 AI Marketing Assets](https://learn.chatartpro.com/articles/campaign-brief-to-ai-assets.html): Workflow for building a campaign asset pack from one brief.
 - [Best AI Video Models for Product Launch Content](https://learn.chatartpro.com/articles/best-ai-video-models-product-launch.html): Guide to choosing AI video routes for launch assets.
 - [How Creators Can Build a Social Content Pack with AI](https://learn.chatartpro.com/articles/social-content-pack-ai-workflow.html): Workflow for turning one topic into social video, cover, caption, and music assets.
