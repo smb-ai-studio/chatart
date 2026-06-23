@@ -49,6 +49,31 @@ Every HTML page should include:
 - A freshness/source note when claims can change.
 - Internal links to related capability, model, comparison, FAQ, or policy pages.
 
+## Google Search quality baseline
+
+Follow Google's public Search documentation when creating, editing, or auditing pages. The default standard is helpful, reliable, people-first content.
+
+Every public page should:
+
+- Satisfy a real creator or marketer task, not only target a keyword.
+- Make the main topic and user benefit clear near the top of the page.
+- Provide original value: practical workflow, decision help, prompt examples, tradeoffs, limitations, or product-specific guidance.
+- Avoid thin summaries of external articles. When using external material, synthesize it into a ChatArt Pro workflow and cite the source.
+- Avoid exaggerated claims, unsupported superlatives, fake certainty, or implying model/product access that is not confirmed.
+- Identify freshness-sensitive claims with a review date and source note.
+- Use clear headings that match the content below them.
+- Link naturally to related internal pages when those pages help the reader continue the task.
+- Keep the page usable on mobile and avoid layout issues such as horizontal overflow.
+- Avoid keyword stuffing, doorway-style pages, mass-produced generic copy, or content written only for search ranking.
+- If AI assistance is used to draft content, the final page still needs human-useful structure, source review, factual checks, and project-specific editing.
+
+For model and AI capability pages specifically:
+
+- Explain what the model helps a creator or marketer produce.
+- Separate public model claims from ChatArt Pro product availability.
+- Include practical prompts, use cases, limits to verify, and a CTA to experience ChatArt Pro.
+- Prefer official model documentation and high-quality guide pages as sources; cite them in the source note.
+
 ## Model page requirements
 
 Each model page should explain:
@@ -105,5 +130,6 @@ Before publishing:
 - [ ] sitemap.xml includes every public page.
 - [ ] llms.txt reflects the current public page set.
 - [ ] GA4 tag G-VS171ECBSC is present on every public HTML page.
+- [ ] Page passes the Google Search quality baseline: helpful task focus, original value, clear source/freshness note, no unsupported claims, no keyword stuffing.
 - [ ] Page copy consistently frames ChatArt Pro as asset production for creators and marketers.
 - [ ] CTA links point to the official product or a relevant internal next step.
