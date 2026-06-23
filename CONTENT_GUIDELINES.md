@@ -25,7 +25,7 @@ Keep these public entry points current:
 - capabilities.html - asset production capabilities and model directory.
 - use-cases.html - creator and marketing workflows with a clear CTA.
 - articles.html - article hub for creator and marketing asset production playbooks.
-- articles/ - individual专题文章 with Article JSON-LD, breadcrumbs, CTA, source note, and related internal links.
+- articles/ - individual topic articles with Article JSON-LD, breadcrumbs, CTA, source note, and related internal links.
 - faq.html - short, plain answers.
 - models/ - model-specific asset production guidance.
 - compare/ - practical model-selection comparisons.
@@ -43,6 +43,7 @@ Every HTML page should include:
 - A robots meta tag that allows indexing and rich snippets.
 - A link to llms.txt.
 - A link to sitemap.xml.
+- The GA4 Google tag for G-VS171ECBSC.
 - One H1.
 - Valid JSON-LD where useful.
 - A freshness/source note when claims can change.
@@ -103,5 +104,6 @@ Before publishing:
 - [ ] JSON-LD parses.
 - [ ] sitemap.xml includes every public page.
 - [ ] llms.txt reflects the current public page set.
+- [ ] GA4 tag G-VS171ECBSC is present on every public HTML page.
 - [ ] Page copy consistently frames ChatArt Pro as asset production for creators and marketers.
 - [ ] CTA links point to the official product or a relevant internal next step.
