@@ -34,6 +34,10 @@ Last reviewed: 2026-06-23. Product and model availability can change; use the Ch
 - [Kling 3](https://learn.chatartpro.com/models/kling-3.html): 4K AI video creation in ChatArt Pro.
 - [GPT Image 2](https://learn.chatartpro.com/models/gpt-image-2.html): High-quality AI image generation and visual directions in ChatArt Pro.
 - [Nano Banana](https://learn.chatartpro.com/models/nano-banana.html): AI image generation and creative visual exploration in ChatArt Pro.
+- [Claude Sonnet 4.5](https://learn.chatartpro.com/models/claude-sonnet-4-5.html): Structured writing, editorial review, long-form campaign copy, and asset QA workflows in ChatArt Pro.
+- [Gemini 3 Pro](https://learn.chatartpro.com/models/gemini-3-pro.html): Multimodal planning, research synthesis, and creator marketing workflows in ChatArt Pro.
+- [GPT-5.2](https://learn.chatartpro.com/models/gpt-5-2.html): Campaign strategy, scripts, briefs, captions, ad copy, and asset planning workflows in ChatArt Pro.
+- [Veo 3](https://learn.chatartpro.com/models/veo-3.html): AI video generation with native audio direction and cinematic story workflows in ChatArt Pro.
 
 ## Model Comparisons
 
@@ -53,8 +57,8 @@ Last reviewed: 2026-06-23. Product and model availability can change; use the Ch
 ## Key Facts
 
 - ChatArt Pro supports AI workflows for producing video assets, image assets, music directions, writing, ad copy, and campaign materials.
-- Featured video models include Seedance 2, Kling O3 Mini, and Kling 3 for 4K video assets.
-- Featured image models include GPT Image 2 and Nano Banana for campaign visuals, product images, moodboards, and creative variants.
+- Featured video models include Seedance 2, Kling O3 Mini, Kling 3, and Veo 3 for video assets.
+- Featured image models include GPT Image 2 and Nano Banana for campaign visuals, product images, moodboards, and creative variants. Featured planning and writing routes include GPT-5.2, Gemini 3 Pro, and Claude Sonnet 4.5.
 - Product availability, model access, resolution options, pricing, and commercial-use terms may vary by feature, plan, region, or model. Refer to the ChatArt Pro app for current details.
 
 ## Content Scope
