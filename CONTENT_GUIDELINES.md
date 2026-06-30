@@ -74,6 +74,27 @@ For model and AI capability pages specifically:
 - Include practical prompts, use cases, limits to verify, and a CTA to experience ChatArt Pro.
 - Prefer official model documentation and high-quality guide pages as sources; cite them in the source note.
 
+## Google SEO starter guide baseline
+
+Follow Google's SEO Starter Guide as an operational checklist for public pages. The priority is to help users and search engines understand the page, not to chase shortcuts.
+
+Use these rules when creating, editing, or auditing pages:
+
+- Keep pages crawlable as normal HTML with the same important content visible to users and Google. Do not hide essential content behind inaccessible scripts, images, or blocked resources.
+- Use descriptive, stable URLs and keep related topics grouped in logical folders such as `articles/`, `models/`, and `compare/`.
+- Avoid duplicate pages. Each page should have one clear purpose and a canonical URL; do not create near-identical pages for keyword variants.
+- Write unique, specific `<title>` and meta description text for each page. The title should describe the page; the meta description should summarize why a creator or marketer should click.
+- Use headings to organize content for scanning. H1 should match the main task; H2 sections should answer real reader questions.
+- Write helpful link text. Avoid vague anchors like "click here"; use anchors that explain the destination, such as "Read the Seedance 2 model guide" or "Compare GPT Image 2 and Nano Banana".
+- Link to related internal pages when the link helps the reader continue the task. Link to trusted external sources when they support factual or freshness-sensitive claims.
+- Put images near relevant explanatory text, use clear images, and write descriptive `alt` text when the image adds meaning. Decorative images can use empty alt text.
+- For video-focused pages, include a dedicated page context, descriptive title/description, nearby explanatory text, and structured data where useful.
+- Think about both expert and beginner search language, but do not try to include every possible query. Use natural language and avoid keyword stuffing.
+- Do not rely on meta keywords; Google does not use them for ranking.
+- Avoid intrusive elements that block users from reading the main content.
+- Promote new pages through relevant internal links, the article hub, sitemap.xml, llms.txt, and any appropriate public entry point.
+- Use Search Console URL Inspection and performance data after publishing when diagnosing indexing, crawling, or search appearance issues.
+
 ## Model page requirements
 
 Each model page should explain:
@@ -131,5 +152,6 @@ Before publishing:
 - [ ] llms.txt reflects the current public page set.
 - [ ] GA4 tag G-VS171ECBSC is present on every public HTML page.
 - [ ] Page passes the Google Search quality baseline: helpful task focus, original value, clear source/freshness note, no unsupported claims, no keyword stuffing.
+- [ ] Page passes the Google SEO starter guide baseline: descriptive title/meta, logical URL, useful link text, visible crawlable content, image alt/context, no duplicate/near-duplicate page intent.
 - [ ] Page copy consistently frames ChatArt Pro as asset production for creators and marketers.
 - [ ] CTA links point to the official product or a relevant internal next step.
