@@ -4,7 +4,7 @@
 
 ChatArt Pro is designed for creators, marketers, social media teams, and growth teams who want to move from an idea to publishable assets with less tool switching. It brings video, image, music, copywriting, and campaign-material workflows into one place.
 
-Last reviewed: 2026-06-23. Product and model availability can change; use the ChatArt Pro app and the dated page content for current details.
+Last reviewed: 2026-06-26. Product and model availability can change; use the ChatArt Pro app and the dated page content for current details.
 
 ## Official Product
 
@@ -21,6 +21,8 @@ Last reviewed: 2026-06-23. Product and model availability can change; use the Ch
 ## Articles and Playbooks
 
 - [AI asset production playbooks](https://learn.chatartpro.com/articles.html): Article hub for creator and marketing workflows.
+- [GPT-5.5 for Creative Workflows](https://learn.chatartpro.com/articles/gpt-5-5-creative-workflows.html): Practical guide to using GPT-5.5-style reasoning for briefs, campaign planning, prompt packs, and creative asset QA.
+- [Claude Fable 5 for Creative Workflows](https://learn.chatartpro.com/articles/claude-fable-5-creative-workflows.html): Cautious evaluation guide for Claude Fable 5 claims, brand voice testing, and campaign asset planning.
 - [Seedance 2.5 Model Introduction Video Script](https://learn.chatartpro.com/articles/seedance-2-5-model-intro-video-script.html): Model intro video script covering multi-shot consistency, camera control, audio sync, and marketing use cases.
 - [Seedance 2 Guide for AI Video Workflows](https://learn.chatartpro.com/articles/seedance-2-guide-ai-video-workflow.html): Guide to planning multimodal Seedance 2 video assets with text, image, video, and audio references.
 - [How to Turn One Campaign Brief into 10 AI Marketing Assets](https://learn.chatartpro.com/articles/campaign-brief-to-ai-assets.html): Workflow for building a campaign asset pack from one brief.
