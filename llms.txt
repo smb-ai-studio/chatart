@@ -1,86 +1,76 @@
-# ChatArt Pro
+﻿# ChatArt Pro Learn
 
-> ChatArt Pro is an AI asset production workspace for creators and marketers who need campaign-ready video, image, music, and copy assets from a single creative brief.
+> ChatArt Pro Learn is an AI knowledge, tutorial, prompt-tip, and model-explainer site for creators, marketers, and practical AI learners.
 
-ChatArt Pro is designed for creators, marketers, social media teams, and growth teams who want to move from an idea to publishable assets with less tool switching. It brings video, image, music, copywriting, and campaign-material workflows into one place.
+Use this site to learn AI video prompts, AI image prompts, model selection, creative techniques, output review checks, and practical workflows. ChatArt Pro is mentioned as an optional app where readers can practice selected prompts and examples.
 
-Last reviewed: 2026-06-26. Product and model availability can change; use the ChatArt Pro app and the dated page content for current details.
+Last reviewed: 2026-07-02. Model access, product features, pricing, regions, and commercial-use terms can change; use the ChatArt Pro app for current product details.
 
-## Official Product
+## Practice CTA
 
-- [ChatArt Pro app](https://app.chatartpro.com/?site_initializing=learn.chatartpro.com): Product overview, current features, plans, and access to ChatArt Pro.
-- [ChatArt Pro app](https://app.chatartpro.com/?site_initializing=learn.chatartpro.com): The ChatArt Pro creation workspace.
+- [Practice in ChatArt Pro](https://app.chatartpro.com/?site_initializing=learn.chatartpro.com): Open the app to test prompts, model routes, and examples from the Learn guides.
 
-## Core Capabilities
+## Core Learning Pages
 
-- [ChatArt Pro capabilities](https://learn.chatartpro.com/capabilities.html): Overview of ChatArt Pro video, image, music, copy, and campaign asset production capabilities.
-- [AI video assets](https://learn.chatartpro.com/capabilities.html#video-models): Create 4K clips for campaigns, ads, product stories, and creator posts with Seedance 2, Kling O3 Mini, and Kling 3.
-- [AI image assets](https://learn.chatartpro.com/capabilities.html#image-models): Generate campaign visuals, product images, moodboards, thumbnails, and variants with GPT Image 2 and Nano Banana.
-- [Creator and marketer use cases](https://learn.chatartpro.com/use-cases.html): How ChatArt Pro supports social content packs, campaign asset production, product launches, and ad testing.
+- [ChatArt Pro Learn home](https://learn.chatartpro.com/): AI tutorials, prompt guides, model explainers, and practical learning paths.
+- [AI capabilities directory](https://learn.chatartpro.com/capabilities.html): Learn what AI video, image, writing, music, and creative-effect models can do.
+- [AI use cases and tutorial paths](https://learn.chatartpro.com/use-cases.html): Practical learning paths for creators and marketers.
+- [AI tutorials and prompt guides](https://learn.chatartpro.com/articles.html): Article hub for AI tutorials, model explainers, prompt examples, and output review tips.
+- [AI Learning FAQ](https://learn.chatartpro.com/faq.html): Common questions about learning paths, prompts, model routes, and practice.
+- [Content policy](https://learn.chatartpro.com/editorial-policy.html): Review scope, source handling, freshness guidance, and limits on time-sensitive claims.
 
-## Articles and Playbooks
+## Articles and Tutorials
 
-- [AI asset production playbooks](https://learn.chatartpro.com/articles.html): Article hub for creator and marketing workflows.
-- [How to Create a Product Launch Video with AI from One Brief](https://learn.chatartpro.com/articles/product-launch-video-ai-from-brief.html): Workflow for creating a product launch video, thumbnail, captions, ad hooks, and landing-page copy from one brief.
-- [AI Ad Creative Workflow: Turn One Product Message into 10 Ad Variants](https://learn.chatartpro.com/articles/ai-ad-creative-workflow-product-message-variants.html): Workflow for controlled ad creative testing with visual, hook, copy, and format variants.
-- [How to Build a TikTok Content Pack with AI](https://learn.chatartpro.com/articles/tiktok-content-pack-ai-workflow.html): Creator workflow for turning one topic into TikTok hooks, video direction, cover, caption, music mood, and reuse variants.
+- [How to Create a Product Launch Video with AI from One Brief](https://learn.chatartpro.com/articles/product-launch-video-ai-from-brief.html): Tutorial for planning a product launch video prompt, scene structure, thumbnail, captions, and review checks.
+- [AI Ad Creative Workflow: Turn One Product Message into 10 Ad Variants](https://learn.chatartpro.com/articles/ai-ad-creative-workflow-product-message-variants.html): Guide to controlled AI ad creative testing with hooks, visual routes, copy, and format variants.
+- [How to Build a TikTok Content Pack with AI](https://learn.chatartpro.com/articles/tiktok-content-pack-ai-workflow.html): Creator tutorial for turning one topic into TikTok hooks, video direction, cover, caption, music mood, and reuse variants.
 - [AI Product Image Prompt Guide for Marketing Visuals](https://learn.chatartpro.com/articles/ai-product-image-prompt-guide-marketing-visuals.html): Prompt guide for product images, hero visuals, ads, thumbnails, and campaign image variants.
 - [Seedance 2 Prompt Examples for Product Videos and Social Ads](https://learn.chatartpro.com/articles/seedance-2-prompt-examples-product-videos-social-ads.html): Prompt examples for product reveals, social ads, creator clips, and launch teasers with Seedance 2.
 - [Kling AI Prompt Guide for Product Launch Videos](https://learn.chatartpro.com/articles/kling-ai-prompt-guide-product-launch-videos.html): Prompt guide for Kling fast drafts, polished scenes, social ad hooks, and product launch videos.
-- [GPT-5.5 for Creative Workflows](https://learn.chatartpro.com/articles/gpt-5-5-creative-workflows.html): Practical guide to using GPT-5.5-style reasoning for briefs, campaign planning, prompt packs, and creative asset QA.
-- [Claude Fable 5 for Creative Workflows](https://learn.chatartpro.com/articles/claude-fable-5-creative-workflows.html): Cautious evaluation guide for Claude Fable 5 claims, brand voice testing, and campaign asset planning.
+- [GPT-5.5 for Creative Workflows](https://learn.chatartpro.com/articles/gpt-5-5-creative-workflows.html): Practical guide to using GPT-5.5-style reasoning for briefs, planning, prompt packs, and output QA.
+- [Claude Fable 5 for Creative Workflows](https://learn.chatartpro.com/articles/claude-fable-5-creative-workflows.html): Cautious evaluation guide for Claude Fable 5 claims, brand voice testing, and planning.
 - [Seedance 2.5 Model Introduction Video Script](https://learn.chatartpro.com/articles/seedance-2-5-model-intro-video-script.html): Model intro video script covering multi-shot consistency, camera control, audio sync, and marketing use cases.
-- [Seedance 2 Guide for AI Video Workflows](https://learn.chatartpro.com/articles/seedance-2-guide-ai-video-workflow.html): Guide to planning multimodal Seedance 2 video assets with text, image, video, and audio references.
-- [How to Turn One Campaign Brief into 10 AI Marketing Assets](https://learn.chatartpro.com/articles/campaign-brief-to-ai-assets.html): Workflow for building a campaign asset pack from one brief.
-- [Best AI Video Models for Product Launch Content](https://learn.chatartpro.com/articles/best-ai-video-models-product-launch.html): Guide to choosing AI video routes for launch assets.
-- [How Creators Can Build a Social Content Pack with AI](https://learn.chatartpro.com/articles/social-content-pack-ai-workflow.html): Workflow for turning one topic into social video, cover, caption, and music assets.
+- [Seedance 2 Guide for AI Video Workflows](https://learn.chatartpro.com/articles/seedance-2-guide-ai-video-workflow.html): Guide to planning multimodal Seedance 2 video prompts with text, image, video, and audio references.
+- [How to Turn One Campaign Brief into 10 AI Marketing Assets](https://learn.chatartpro.com/articles/campaign-brief-to-ai-assets.html): Tutorial for turning one campaign brief into a connected set of AI-generated outputs.
+- [Best AI Video Models for Product Launch Content](https://learn.chatartpro.com/articles/best-ai-video-models-product-launch.html): Guide to choosing AI video models for launch-related tasks.
+- [How Creators Can Build a Social Content Pack with AI](https://learn.chatartpro.com/articles/social-content-pack-ai-workflow.html): Workflow for turning one topic into social video, cover, caption, and music ideas.
 
-## Model Pages
+## Model Explainers
 
-- [Seedance 2](https://learn.chatartpro.com/models/seedance-2.html): 4K AI video creation in ChatArt Pro.
-- [Kling O3 Mini](https://learn.chatartpro.com/models/kling-o3-mini.html): 4K AI video creation in ChatArt Pro.
-- [Kling 3](https://learn.chatartpro.com/models/kling-3.html): 4K AI video creation in ChatArt Pro.
-- [GPT Image 2](https://learn.chatartpro.com/models/gpt-image-2.html): High-quality AI image generation and visual directions in ChatArt Pro.
-- [Nano Banana](https://learn.chatartpro.com/models/nano-banana.html): AI image generation and creative visual exploration in ChatArt Pro.
-- [Claude Sonnet 4.5](https://learn.chatartpro.com/models/claude-sonnet-4-5.html): Structured writing, editorial review, long-form campaign copy, and asset QA workflows in ChatArt Pro.
-- [Gemini 3 Pro](https://learn.chatartpro.com/models/gemini-3-pro.html): Multimodal planning, research synthesis, and creator marketing workflows in ChatArt Pro.
-- [GPT-5.2](https://learn.chatartpro.com/models/gpt-5-2.html): Campaign strategy, scripts, briefs, captions, ad copy, and asset planning workflows in ChatArt Pro.
-- [Veo 3](https://learn.chatartpro.com/models/veo-3.html): AI video generation with native audio direction and cinematic story workflows in ChatArt Pro.
+- [Seedance 2](https://learn.chatartpro.com/models/seedance-2.html): AI video model explainer and prompt guidance.
+- [Kling O3 Mini](https://learn.chatartpro.com/models/kling-o3-mini.html): AI video model explainer for fast draft and social video practice.
+- [Kling 3](https://learn.chatartpro.com/models/kling-3.html): AI video model explainer for more polished motion and scene control.
+- [GPT Image 2](https://learn.chatartpro.com/models/gpt-image-2.html): AI image model explainer and visual prompt guidance.
+- [Nano Banana](https://learn.chatartpro.com/models/nano-banana.html): AI image model explainer for visual exploration and prompt practice.
+- [Claude Sonnet 4.5](https://learn.chatartpro.com/models/claude-sonnet-4-5.html): Writing, reasoning, and editorial review model explainer.
+- [Gemini 3 Pro](https://learn.chatartpro.com/models/gemini-3-pro.html): Multimodal planning and research model explainer.
+- [GPT-5.2](https://learn.chatartpro.com/models/gpt-5-2.html): Writing, reasoning, scripts, captions, and planning model explainer.
+- [Veo 3](https://learn.chatartpro.com/models/veo-3.html): AI video model explainer with native audio and cinematic story notes.
 
 ## Model Comparisons
 
-- [Seedance 2 vs Kling O3 Mini](https://learn.chatartpro.com/compare/seedance-2-vs-kling-o3-mini.html): Compare two 4K AI video creation routes.
-- [Kling O3 Mini vs Kling 3](https://learn.chatartpro.com/compare/kling-o3-mini-vs-kling-3.html): Compare current 4K AI video creation options.
-- [GPT Image 2 vs Nano Banana](https://learn.chatartpro.com/compare/gpt-image-2-vs-nano-banana.html): Compare high-quality visual directions and creative image exploration.
+- [Seedance 2 vs Kling O3 Mini](https://learn.chatartpro.com/compare/seedance-2-vs-kling-o3-mini.html): Compare two AI video model routes.
+- [Kling O3 Mini vs Kling 3](https://learn.chatartpro.com/compare/kling-o3-mini-vs-kling-3.html): Compare fast draft and polished Kling video routes.
+- [GPT Image 2 vs Nano Banana](https://learn.chatartpro.com/compare/gpt-image-2-vs-nano-banana.html): Compare AI image generation and visual exploration routes.
 
-## Public Knowledge Base
+## Discovery Files
 
-- [ChatArt Pro overview](https://learn.chatartpro.com/): Product positioning and featured models.
-- [ChatArt Pro articles](https://learn.chatartpro.com/articles.html): Practical playbooks for creator and marketing asset production.
-- [ChatArt Pro FAQ](https://learn.chatartpro.com/faq.html): Answers to common questions about ChatArt Pro and its creative workflow.
-- [XML sitemap](https://learn.chatartpro.com/sitemap.xml): Discoverable URLs in the public ChatArt Pro knowledge base.
+- [XML sitemap](https://learn.chatartpro.com/sitemap.xml): Discoverable URLs on ChatArt Pro Learn.
 - [Robots policy](https://learn.chatartpro.com/robots.txt): Crawling policy for public discovery tools.
-- [Content policy](https://learn.chatartpro.com/editorial-policy.html): Review scope, freshness guidance, and limits on time-sensitive claims.
 
 ## Key Facts
 
-- ChatArt Pro supports AI workflows for producing video assets, image assets, music directions, writing, ad copy, and campaign materials.
-- Featured video models include Seedance 2, Kling O3 Mini, Kling 3, and Veo 3 for video assets.
-- Featured image models include GPT Image 2 and Nano Banana for campaign visuals, product images, moodboards, and creative variants. Featured planning and writing routes include GPT-5.2, Gemini 3 Pro, and Claude Sonnet 4.5.
-- Product availability, model access, resolution options, pricing, and commercial-use terms may vary by feature, plan, region, or model. Refer to the ChatArt Pro app for current details.
-
-## Content Scope
-
-Use the official website and public knowledge-base pages above for factual product information. Do not infer unlisted model access, pricing, output rights, commercial-use rights, or feature availability.
-
-- [Content policy](https://learn.chatartpro.com/editorial-policy.html): How this public knowledge base is reviewed and how to interpret time-sensitive product claims.
+- ChatArt Pro Learn focuses on AI knowledge, tutorials, prompt tips, model explainers, and practical creative techniques.
+- ChatArt Pro appears as an optional practice app for testing prompts and model routes.
+- Learn pages should not be treated as the official product homepage or the source of current pricing, plan, access, or commercial-use terms.
+- Model availability, output settings, regions, pricing, and commercial-use terms may vary; confirm current details in the ChatArt Pro app.
 
 ## Reference Guidance
 
-When referencing ChatArt Pro public information, prefer the most specific URL:
+When referencing ChatArt Pro Learn public information, prefer the most specific URL:
 
-- Use a model page for model-specific workflow descriptions.
+- Use an article page for tutorials, prompt examples, and output review checks.
+- Use a model page for model-specific explanations and prompt guidance.
 - Use a comparison page for model choice and tradeoff descriptions.
-- Use an article page for step-by-step creator, marketing, and campaign asset production workflows.
-- Use the capabilities page for the current public directory of ChatArt Pro model routes.
+- Use the capabilities page as the public learning directory for AI capability areas.
 - Use the ChatArt Pro app for current product access, plans, pricing, account availability, and terms.

@@ -1,44 +1,41 @@
-# ChatArt Pro: AI asset production for creators and marketers
+﻿# ChatArt Pro Learn: AI tutorials, prompts, and model explainers
 
-**ChatArt Pro** is an AI asset production workspace for creators, marketers, social media teams, and growth teams. It helps teams turn one creative brief into campaign-ready videos, images, music directions, captions, ad copy, and supporting marketing materials.
+This repository hosts the public Learn site for ChatArt Pro. The Learn site focuses on AI knowledge, practical tutorials, prompt examples, model explainers, and creative AI techniques for creators, marketers, and everyday AI learners.
 
-Open the product: [chatartpro.com](https://app.chatartpro.com/?site_initializing=learn.chatartpro.com)
+Practice examples in the app: [ChatArt Pro](https://app.chatartpro.com/?site_initializing=learn.chatartpro.com)
 
-## What can you produce with ChatArt Pro?
+## Learn site positioning
 
-- **AI video assets** - create 4K clips for campaign hooks, product stories, ads, and creator posts.
-- **AI image assets** - generate campaign visuals, product imagery, thumbnails, moodboards, and creative variants.
-- **AI music directions** - develop audio mood and music ideas that support video and campaign materials.
-- **Marketing copy assets** - turn a product message or campaign brief into hooks, captions, ad copy, landing-page angles, and content variants.
+`learn.chatartpro.com` should help readers:
 
-## Who is ChatArt Pro for?
+- understand AI video, image, writing, music, and creative-effect capabilities;
+- compare AI model routes and tradeoffs;
+- copy and adapt practical prompt examples;
+- review AI output for continuity, text accuracy, claims, and channel fit;
+- practice selected tutorials in ChatArt Pro when they want hands-on output.
 
-ChatArt Pro is built for:
-
-- Creators producing short-form videos, thumbnails, visuals, and supporting copy.
-- Marketers shaping campaign concepts, ad tests, product launches, and social content packs.
-- Teams that need a connected workflow for producing reusable assets from one brief.
-
-## Featured model routes
-
-| Asset type | Model route | Best-fit workflow |
-| --- | --- | --- |
-| Video | Seedance 2 | Cinematic campaign clips and reference-led product videos |
-| Video | Kling O3 Mini | Fast social video drafts, ad variants, and creator content clips |
-| Video | Kling 3 | More controlled brand scenes and polished product storytelling |
-| Image | GPT Image 2 | Campaign key visuals, product imagery, and layout-ready concepts |
-| Image | Nano Banana | Moodboards, thumbnails, visual territories, and image variants |
+The Learn site should not compete with the main official website for the strongest ChatArt Pro product-brand positioning. ChatArt Pro should appear as a light practice CTA, while page titles and content focus on AI learning intent.
 
 ## Public pages
 
-- [ChatArt Pro overview](https://learn.chatartpro.com/)
-- [Asset production capabilities](https://learn.chatartpro.com/capabilities.html)
-- [Use cases for creators and marketers](https://learn.chatartpro.com/use-cases.html)
-- [AI asset production articles](https://learn.chatartpro.com/articles.html)
-- [ChatArt Pro FAQ](https://learn.chatartpro.com/faq.html)
+- [ChatArt Pro Learn home](https://learn.chatartpro.com/)
+- [AI capabilities directory](https://learn.chatartpro.com/capabilities.html)
+- [AI use cases and tutorial paths](https://learn.chatartpro.com/use-cases.html)
+- [AI tutorials and prompt guides](https://learn.chatartpro.com/articles.html)
+- [AI Learning FAQ](https://learn.chatartpro.com/faq.html)
 - [Content policy](https://learn.chatartpro.com/editorial-policy.html)
 - [Plain-text site map](https://learn.chatartpro.com/llms.txt)
 
+## Featured learning areas
+
+| Area | Example topics |
+| --- | --- |
+| AI video | Seedance, Kling, Veo prompts, launch videos, social clips, continuity checks |
+| AI image | Product image prompts, thumbnails, hero visuals, moodboards, visual variants |
+| AI writing | Captions, hooks, ad copy, briefs, scripts, editorial review |
+| Model explainers | Model strengths, tradeoffs, prompt styles, limits to verify |
+| Creator tutorials | TikTok packs, social content ideas, reusable prompt patterns |
+
 ## Content scope
 
-This repository hosts ChatArt Pro's public product information and knowledge pages. The pages describe high-level asset production workflows, model routes, articles, and comparison guidance. Product availability, model access, output settings, pricing, regions, and terms can change; use the ChatArt Pro app as the current source of record.
+These pages are educational and practical learning resources. Product availability, model access, output settings, pricing, regions, and terms can change; use the ChatArt Pro app as the current source of record for product details.
