@@ -31,9 +31,14 @@ Use ChatArt Pro as a light contextual CTA, not the dominant SEO topic of Learn p
 When mentioning ChatArt Pro:
 
 - Keep it as a helpful next step or optional tool mention.
-- Prefer neutral CTA phrasing such as "Try the workflow in ChatArt Pro" or "Practice in ChatArt Pro to practice this prompt."
+- Prefer neutral CTA phrasing such as "Try the workflow in ChatArt Pro" or "Practice this prompt in ChatArt Pro."
 - Avoid making the page title, H1, meta description, or opening paragraph primarily about ChatArt Pro unless the page is intentionally a product/support page.
 - Do not position Learn as the official product homepage; that role belongs to `www.chatartpro.com`.
+
+Header brand display:
+
+- Use `ChatArt Learn` beside the logo in the site header so the Learn site is visually distinct from the main ChatArt Pro product site.
+- Keep `ChatArt Pro` for the app CTA and product-specific mentions.
 
 Legacy product-oriented wording may still appear where useful, but new and revised content should shift toward AI learning intent.
 
