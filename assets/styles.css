@@ -631,3 +631,90 @@ nav a[aria-current="page"] {
   color: var(--doc-ink);
   border-bottom-color: var(--doc-mint);
 }
+
+/* Spacing pass: keep copy away from borders across the whole Learn site. */
+.hero,
+.page-hero {
+  padding-right: clamp(28px, 8vw, 96px);
+  padding-left: clamp(28px, 8vw, 96px);
+}
+
+.detail-page .detail-hero {
+  padding: clamp(36px, 5vw, 64px);
+}
+
+.section.asset-cta,
+.asset-cta {
+  padding: clamp(36px, 5vw, 56px);
+}
+
+.model-card,
+.official-model-card,
+.card,
+.article-card,
+.feature-grid article,
+.fact-card,
+.choice-card,
+.article-summary-box,
+.source-note,
+.editor-note,
+.faq-list details {
+  padding: clamp(24px, 3vw, 34px);
+}
+
+.prompt-list article {
+  padding: 24px 26px;
+}
+
+.comparison-table th,
+.comparison-table td {
+  padding: 20px 22px;
+}
+
+.hero-model-strip span,
+.resolution {
+  padding-right: 12px;
+  padding-left: 12px;
+}
+
+.workflow-list li {
+  padding-right: 18px;
+  padding-left: 18px;
+}
+
+.site-footer {
+  padding-top: 44px;
+  padding-bottom: 44px;
+}
+
+@media (max-width: 800px) {
+  .hero,
+  .page-hero {
+    padding-right: 24px;
+    padding-left: 24px;
+  }
+
+  .detail-page .detail-hero,
+  .section.asset-cta,
+  .asset-cta,
+  .model-card,
+  .official-model-card,
+  .card,
+  .article-card,
+  .feature-grid article,
+  .fact-card,
+  .choice-card,
+  .article-summary-box,
+  .source-note,
+  .editor-note,
+  .faq-list details,
+  .prompt-list article {
+    padding-right: 24px;
+    padding-left: 24px;
+  }
+
+  .comparison-table th,
+  .comparison-table td {
+    padding: 18px 20px;
+  }
+}
