@@ -1,0 +1,164 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="https://images.imyfone.com/chatartweben/assets/common/favicon.ico" type="image/x-icon">
+    <meta name="google-site-verification" content="9-3oH99DF5-w1f4un5iv1CY9g3VcEbO1OciBCyxQ-Sg">
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-VS171ECBSC"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-VS171ECBSC');
+    </script>
+    <meta name="description" content="A practical GPT Image 2.5 tutorial covering Flare vs. Sunburst, prompt structure, image editing, transparent assets, 4K checks, and migration testing.">
+    <meta name="robots" content="index,follow,max-snippet:-1,max-image-preview:large">
+    <link rel="canonical" href="https://learn.chatartpro.com/articles/gpt-image-2-5-tutorial.html">
+    <meta property="og:url" content="https://learn.chatartpro.com/articles/gpt-image-2-5-tutorial.html">
+    <meta property="og:title" content="GPT Image 2.5 Tutorial: Flare vs. Sunburst and Prompting">
+    <meta property="og:description" content="Learn a repeatable GPT Image 2.5 workflow for choosing Flare or Sunburst, writing prompts, editing references, testing 4K outputs, and reviewing final assets.">
+    <link rel="alternate" type="text/plain" href="../llms.txt" title="ChatArt Pro llms.txt">
+    <link rel="sitemap" type="application/xml" href="../sitemap.xml">
+    <link rel="stylesheet" href="../assets/styles.css?v=20260710-spacing">
+    <title>GPT Image 2.5 Tutorial: Flare vs. Sunburst and Prompting</title>
+    <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Article","headline":"GPT Image 2.5 Tutorial: Flare vs. Sunburst and Prompting","description":"A practical GPT Image 2.5 tutorial covering Flare vs. Sunburst, prompt structure, image editing, transparent assets, 4K checks, and migration testing.","mainEntityOfPage":"https://learn.chatartpro.com/articles/gpt-image-2-5-tutorial.html","datePublished":"2026-09-11","dateModified":"2026-09-11","author":{"@type":"Organization","name":"ChatArt Pro","url":"https://app.chatartpro.com/?site_initializing=learn.chatartpro.com"},"publisher":{"@type":"Organization","name":"ChatArt Pro","url":"https://app.chatartpro.com/?site_initializing=learn.chatartpro.com"},"about":[{"@type":"Thing","name":"GPT Image 2.5"},{"@type":"Thing","name":"GPT Image 2.5 Flare"},{"@type":"Thing","name":"GPT Image 2.5 Sunburst"},{"@type":"Thing","name":"AI image prompting"}],"image":"https://learn.chatartpro.com/assets/article-images/campaign-brief-to-ai-assets-hero.png","citation":["https://developers.openai.com/api/docs/guides/image-generation","https://developers.openai.com/api/docs/guides/image-prompting"]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is GPT Image 2.5?","acceptedAnswer":{"@type":"Answer","text":"OpenAI's current image-generation documentation describes two GPT Image 2.5 choices: Flare, a smaller model optimized for speed, and Sunburst, a base model optimized for quality. Both support generation, editing, and transparent backgrounds according to the prompting guide."}},{"@type":"Question","name":"Should I use GPT Image 2.5 Flare or Sunburst?","acceptedAnswer":{"@type":"Answer","text":"Start with Flare when speed is the priority and with Sunburst when a complex workflow has demanding quality or editing requirements. Test both with the same prompt, references, dimensions, and acceptance checks before switching."}},{"@type":"Question","name":"Does GPT Image 2.5 support 4K images?","acceptedAnswer":{"@type":"Answer","text":"The official prompting guide lists 3840x2160 and 2160x3840 as common 4K targets, while noting that outputs above 2560x1440 are experimental. Check the current tool, output dimensions, and final-size quality before promising a 4K deliverable."}},{"@type":"Question","name":"How should I migrate a GPT Image 2 workflow?","acceptedAnswer":{"@type":"Answer","text":"Save representative prompts and reference images, test GPT Image 2.5 Sunburst or Flare with settings held constant, compare quality and latency, and change one variable at a time. Keep a rollback route until the new model passes your real acceptance criteria."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ChatArt Pro","item":"https://learn.chatartpro.com/"},{"@type":"ListItem","position":2,"name":"Articles","item":"https://learn.chatartpro.com/articles.html"},{"@type":"ListItem","position":3,"name":"GPT Image 2.5 Tutorial","item":"https://learn.chatartpro.com/articles/gpt-image-2-5-tutorial.html"}]}]}</script>
+  </head>
+  <body>
+    <header class="site-header"><a class="brand" href="../index.html"><img src="https://images.imyfone.com/chatartweben/assets/common/product-icon/chat-art-icon.svg" alt="" width="32" height="32"><span>ChatArt Learn</span></a><nav aria-label="Primary navigation"><a href="../capabilities.html">Capabilities</a><a href="../use-cases.html">Use cases</a><a href="../articles.html" aria-current="page">Articles</a><a href="../faq.html">FAQ</a></nav><a class="button button-small" href="https://app.chatartpro.com/?site_initializing=learn.chatartpro.com" rel="noopener">Practice in ChatArt Pro</a></header>
+    <main class="detail-page article-page">
+      <article>
+        <section class="detail-hero">
+          <p class="eyebrow">GPT IMAGE 2.5 TUTORIAL</p>
+          <h1>How to choose GPT Image 2.5 Flare or Sunburst and build a reliable image workflow.</h1>
+          <p>GPT Image 2.5 is easier to use when model choice, prompt design, image edits, output size, and quality checks are treated as one workflow. This tutorial shows how to move from a brief to a tested image route without assuming that the fastest model is always the best one.</p>
+          <div class="detail-actions"><a class="button" href="https://app.chatartpro.com/?site_initializing=learn.chatartpro.com" rel="noopener">Practice the workflow</a><a class="text-link" href="../models/gpt-image-2.html">Read the GPT Image model guide &rarr;</a></div>
+        </section>
+
+        <figure class="article-visual"><img src="../assets/article-images/campaign-brief-to-ai-assets-hero.png" alt="Campaign brief connected to image, ad, thumbnail, landing page, variants, and quality review outputs" width="1672" height="941"><figcaption>GPT Image 2.5 works best as part of an asset system: one approved brief can guide a hero visual, edit, thumbnail, ad variant, and final QA pass.</figcaption></figure>
+
+        <section class="article-summary-box"><h2>Summary for fast readers</h2><ul><li>GPT Image 2.5 has two documented choices: Flare for speed-focused workflows and Sunburst for higher-demand quality work.</li><li>Compare models with the same prompt, reference images, dimensions, and acceptance criteria before deciding.</li><li>Write prompts in layers: asset job, subject, composition, style, text, and constraints.</li><li>For edits and transparent assets, explicitly state what changes and what must remain unchanged.</li><li>OpenAI's guide lists 4K targets, but outputs above 2560&times;1440 are described as experimental; inspect the final asset before promising delivery.</li></ul></section>
+
+        <section class="detail-section">
+          <p class="eyebrow">WHAT IS CONFIRMED</p>
+          <h2>GPT Image 2.5 is a model family, not one single setting.</h2>
+          <p>OpenAI's current image-generation documentation describes two GPT Image 2.5 model choices: <strong>GPT Image 2.5 Flare</strong>, a smaller model optimized for speed with image quality described as comparable to GPT Image 2, and <strong>GPT Image 2.5 Sunburst</strong>, a base model optimized for quality with higher image quality than GPT Image 2. The prompting guide says both support image generation, editing, and transparent backgrounds.</p>
+          <p>The same documentation recommends choosing the model based on the workflow, then measuring quality and latency on your own prompts and reference images. That distinction matters: a model can be faster on a simple product render and slower on a difficult edit, while a visually impressive first result can still fail because of text, identity, or product-detail errors.</p>
+          <div class="editor-note"><strong>EEAT note:</strong> The model descriptions and parameter examples on this page are based on OpenAI's public API documentation. The brief templates, review matrix, and production advice are editorial recommendations. ChatArt Pro availability and settings may differ from the API; confirm the current app experience before delivery.</div>
+        </section>
+
+        <section class="detail-section">
+          <p class="eyebrow">MODEL CHOICE</p>
+          <h2>Choose Flare or Sunburst by acceptance criteria, not hype.</h2>
+          <table class="comparison-table"><thead><tr><th>Workflow need</th><th>First model to test</th><th>What to measure</th></tr></thead><tbody>
+            <tr><td>Fast ideation and many draft variants</td><td>GPT Image 2.5 Flare</td><td>Time to first usable image, retry rate, and whether quality stays acceptable at the intended placement size.</td></tr>
+            <tr><td>Complex edits or demanding product fidelity</td><td>GPT Image 2.5 Sunburst</td><td>Subject preservation, label or logo integrity, unwanted changes, and consistency across an edit sequence.</td></tr>
+            <tr><td>Text-heavy poster or ad layout</td><td>Start with Sunburst, then test Flare</td><td>Exact copy, hierarchy, spacing, crop safety, and whether the design remains readable on mobile.</td></tr>
+            <tr><td>Existing GPT Image 2 workflow</td><td>Flare for a speed test; Sunburst if quality is still unmet</td><td>Hold prompt, references, dimensions, and output format constant before changing settings.</td></tr>
+          </tbody></table>
+          <p>The table is a test plan, not a promise that one model wins every task. OpenAI specifically recommends measuring the complete result on your workload and keeping the prior model available while a migration is validated.</p>
+        </section>
+
+        <section class="detail-section">
+          <p class="eyebrow">STEP-BY-STEP WORKFLOW</p>
+          <h2>Use this eight-step process for a new GPT Image 2.5 project.</h2>
+          <ol class="article-steps">
+            <li><strong>Define the asset job.</strong> Choose hero image, product cutout, poster, thumbnail, editorial visual, ad variant, or a targeted edit. Add the placement and audience.</li>
+            <li><strong>Write the visual truth.</strong> List the product shape, materials, colors, label, person identity, and any details that must remain stable. Separate known facts from styling suggestions.</li>
+            <li><strong>Choose the first model.</strong> Use Flare for a speed-first baseline or Sunburst for a demanding quality baseline. Record the choice and the reason.</li>
+            <li><strong>Keep parameters outside the prose.</strong> Select model, quality, size, background, and output format as settings. Use the prompt for the scene and constraints rather than mixing every control into one paragraph.</li>
+            <li><strong>Generate one proof.</strong> Review composition, subject fidelity, text, unwanted objects, crop safety, and whether the visual answers the brief.</li>
+            <li><strong>Edit one variable at a time.</strong> Ask to change only the background, crop, lighting, or headline space while preserving the product, identity, camera angle, and shadow.</li>
+            <li><strong>Run the comparison.</strong> If speed or quality is uncertain, send the same prompt and references to the other GPT Image 2.5 model and compare accepted outputs, not just raw response time.</li>
+            <li><strong>Roll out by workflow.</strong> Start with a small set of customer-facing or campaign assets, monitor quality, latency, failures, and retries, and keep the old route available for rollback.</li>
+          </ol>
+        </section>
+
+        <section class="detail-section">
+          <p class="eyebrow">PROMPT FRAMEWORK</p>
+          <h2>Describe what a reviewer can see.</h2>
+          <div class="prompt-list">
+            <article><strong>Product hero prompt</strong><p>Create a landscape campaign hero image for [product] used on [placement] for [audience]. Subject: [product shape, material, color, label, and non-negotiable details]. Composition: place the product on the [left/right/center], leave [amount] of clean negative space for the headline, and keep the product fully inside crop-safe margins. Scene: [environment]. Lighting: [lighting]. Style: [editorial / documentary / studio / realistic]. Text: use the exact headline “[HEADLINE]” once, with [hierarchy and placement]. Preserve the product geometry and label. Do not add logos, prices, claims, or extra text.</p></article>
+            <article><strong>Flare vs. Sunburst comparison prompt</strong><p>Create the same square product visual from the supplied reference image. Keep the product scale, camera angle, background color, headline space, and exact copy unchanged. Change no creative variable between runs. The goal is to compare instruction following, product fidelity, text accuracy, unwanted changes, and response time between the selected GPT Image 2.5 models.</p></article>
+            <article><strong>Controlled edit prompt</strong><p>Edit the uploaded image by changing only [one variable]. Keep [product/person identity], [label or logo], [camera angle], [lighting direction], [scale], [shadow], and [text] unchanged. Match the new element's perspective, color temperature, and depth of field to the original. Do not add objects, words, or brand marks.</p></article>
+          </div>
+        </section>
+
+        <section class="detail-section">
+          <p class="eyebrow">OUTPUT SETTINGS</p>
+          <h2>Use size and quality settings as testable controls.</h2>
+          <p>OpenAI's prompting guide lists <code>auto</code>, <code>low</code>, <code>medium</code>, <code>high</code>, <code>xhigh</code>, and <code>max</code> quality options for GPT Image 2.5. Common sizes include square, landscape, portrait, 2K, and 4K targets. The guide also states that custom dimensions must use multiples of 16, stay within a 3:1 aspect ratio, and remain inside the documented pixel limits.</p>
+          <p>For a practical test, keep the prompt, reference images, dimensions, and output format constant. Compare the accepted result, not only the first result. Use <code>background="transparent"</code> only when you also inspect the decoded alpha channel around hair, glass, shadows, and product edges; transparency is a production requirement, not just a visual preview.</p>
+          <div class="feature-grid">
+            <article><h3>Draft route</h3><p>Use a lower quality setting for early composition checks when speed matters more than polish.</p></article>
+            <article><h3>Customer-facing route</h3><p>Use a higher quality setting only when it solves a visible quality problem and fits the latency budget.</p></article>
+            <article><h3>4K route</h3><p>Treat 3840&times;2160 or 2160&times;3840 as an experimental target and inspect text, edges, and fine details at final size.</p></article>
+            <article><h3>Transparent route</h3><p>Request a transparent background, choose PNG or WebP as appropriate, and verify that no unwanted backdrop or halo remains.</p></article>
+          </div>
+        </section>
+
+        <section class="detail-section">
+          <p class="eyebrow">MIGRATION SCENARIO</p>
+          <h2>How to move a GPT Image 2 workflow without losing the baseline.</h2>
+          <p>Imagine a team generating a reusable bottle campaign with GPT Image 2. The accepted baseline includes a wide landing-page hero, a square social crop, a product cutout, and a poster with one exact headline. Instead of replacing every request at once, the team saves those prompts, references, dimensions, and outputs.</p>
+          <table class="comparison-table"><thead><tr><th>Test pass</th><th>What stays fixed</th><th>Decision</th></tr></thead><tbody>
+            <tr><td>Sunburst baseline</td><td>Prompt, product reference, dimensions, quality, and output format.</td><td>Does the complex edit meet the existing quality bar?</td></tr>
+            <tr><td>Flare comparison</td><td>Same prompt, reference, dimensions, and acceptance checklist.</td><td>Does it preserve quality while improving response time?</td></tr>
+            <tr><td>Sequence test</td><td>Same complete edit sequence, including transparent cutout and poster text.</td><td>Does the route remain reliable across more than one isolated request?</td></tr>
+            <tr><td>Small rollout</td><td>Monitoring fields: accepted rate, retries, latency, and review issues.</td><td>Can the team expand traffic while keeping a rollback path?</td></tr>
+          </tbody></table>
+        </section>
+
+        <section class="detail-section">
+          <p class="eyebrow">BAD VS BETTER</p>
+          <h2>Do not turn a model comparison into a vague beauty contest.</h2>
+          <table class="comparison-table"><thead><tr><th>Weak prompt</th><th>Better prompt</th><th>Why it is stronger</th></tr></thead><tbody>
+            <tr><td>Make the best product ad with GPT Image 2.5.</td><td>Create a square paid-social image for a matte teal travel bottle. Preserve the lid, label, proportions, and camera angle. Put the bottle on the right, leave the left third clear for one headline, and use soft morning light.</td><td>The task has a placement, subject truth, composition, and reviewable constraints.</td></tr>
+            <tr><td>Try Flare and Sunburst and tell me which is better.</td><td>Run the same prompt, reference image, dimensions, quality setting, and output format on Flare and Sunburst. Compare accepted output rate, product fidelity, text accuracy, unwanted changes, and response time.</td><td>It turns preference into a controlled evaluation.</td></tr>
+            <tr><td>Make it 4K and transparent.</td><td>Use a 3840&times;2160 landscape target and a transparent PNG route in separate tests. Preserve the product edge and label, then inspect decoded dimensions, alpha, halos, and final-size readability.</td><td>It separates two technical requirements that need different checks.</td></tr>
+          </tbody></table>
+        </section>
+
+        <section class="detail-section">
+          <p class="eyebrow">DELIVERY CHECKLIST</p>
+          <h2>Approve the image only when the whole route passes.</h2>
+          <div class="choice-grid">
+            <article class="choice-card"><h3>Instruction following</h3><p>Subject placement, mood, crop, lighting, and the requested visual hierarchy are present.</p></article>
+            <article class="choice-card"><h3>Identity and product</h3><p>Product geometry, label, face, wardrobe, and other protected details remain accurate.</p></article>
+            <article class="choice-card"><h3>Text and claims</h3><p>Exact copy is legible and no unsupported price, result, testimonial, or feature has appeared.</p></article>
+            <article class="choice-card"><h3>Editing stability</h3><p>Each edit changes the requested variable without silently restyling the rest of the image.</p></article>
+            <article class="choice-card"><h3>Dimensions and alpha</h3><p>Output size, aspect ratio, format, crop safety, and transparency match the delivery specification.</p></article>
+            <article class="choice-card"><h3>Operational fit</h3><p>Accepted-image rate, latency, retries, access, rights, and current commercial terms are documented.</p></article>
+          </div>
+        </section>
+
+        <section class="detail-section">
+          <p class="eyebrow">RELATED GUIDES</p>
+          <h2>Continue with adjacent image workflows.</h2>
+          <p>Use the <a href="gpt-image-2-tutorial.html">GPT Image 2 product-visual tutorial</a> for a fundamentals-first prompt workflow, then compare the <a href="../compare/gpt-image-2-vs-nano-banana.html">GPT Image 2 vs. Nano Banana routes</a> when exploration and editing tradeoffs matter. The broader <a href="campaign-brief-to-ai-assets.html">campaign asset playbook</a> shows how one approved visual can connect to copy, video, thumbnails, and landing-page outputs.</p>
+        </section>
+
+        <section class="detail-section">
+          <p class="eyebrow">FAQ</p>
+          <h2>GPT Image 2.5 questions creators and teams ask.</h2>
+          <div class="detail-faq">
+            <details open><summary>What is GPT Image 2.5?</summary><p>OpenAI's current image-generation docs describe GPT Image 2.5 as two choices: Flare, optimized for speed, and Sunburst, optimized for quality. Both are documented for generation, editing, and transparent backgrounds.</p></details>
+            <details><summary>Which model should I start with?</summary><p>Start with Flare when speed and throughput are the main constraints. Start with Sunburst when a complex edit, product reference, text layout, or identity-sensitive workflow has a demanding quality bar. Then compare the other model using the same test.</p></details>
+            <details><summary>Is 4K output guaranteed?</summary><p>No. The official guide lists 4K targets but describes outputs above 2560&times;1440 as experimental. Check the current tool and inspect the actual image at the intended delivery size before promising a 4K result.</p></details>
+            <details><summary>Can I migrate directly from GPT Image 2?</summary><p>Use a baseline-first migration. Save representative prompts and references, test Sunburst and Flare with settings held constant, compare the complete result, and keep the prior workflow available until the new route passes your acceptance checks.</p></details>
+            <details><summary>Does ChatArt Pro expose every GPT Image 2.5 setting?</summary><p>Not necessarily. Public API documentation and an app integration can expose different model names, quality controls, sizes, or background options. Confirm the current ChatArt Pro experience before relying on a specific setting.</p></details>
+          </div>
+        </section>
+
+        <section class="detail-section asset-cta">
+          <p class="eyebrow">PRACTICE THE ROUTE</p>
+          <h2>Test one approved visual before building the whole campaign.</h2>
+          <p>Bring one product brief, one reference image, one placement, and one acceptance checklist into ChatArt Pro. Start with a hero image, then test the edit, crop, poster, and thumbnail variants around the same creative direction.</p>
+          <div class="hero-actions"><a class="button" href="https://app.chatartpro.com/?site_initializing=learn.chatartpro.com" rel="noopener">Practice in ChatArt Pro</a><a class="text-link" href="gpt-image-2-tutorial.html">Read the GPT Image 2 tutorial &rarr;</a></div>
+        </section>
+      </article>
+      <section class="section source-note" aria-label="Content freshness and source"><p><strong>Last reviewed:</strong> September 11, 2026. Model details and parameter examples were checked against <a href="https://developers.openai.com/api/docs/guides/image-generation" rel="noopener">OpenAI's image generation guide</a> and <a href="https://developers.openai.com/api/docs/guides/image-prompting" rel="noopener">OpenAI's GPT Image 2.5 prompting guide</a>. These pages describe GPT Image 2.5 Flare and GPT Image 2.5 Sunburst, including generation, editing, transparent backgrounds, quality settings, and common 4K targets. Access, pricing, regions, app integrations, safety behavior, and commercial-use terms can change; confirm current details in the tool you use.</p></section>
+    </main>
+    <footer class="site-footer"><p>&copy; ChatArt Pro. AI learning hub.</p><div><a href="../articles.html">Articles</a><a href="../capabilities.html">Capabilities</a><a href="https://app.chatartpro.com/?site_initializing=learn.chatartpro.com" rel="noopener">Practice</a></div></footer>
+  </body>
+</html>

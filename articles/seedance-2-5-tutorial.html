@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="https://images.imyfone.com/chatartweben/assets/common/favicon.ico" type="image/x-icon">
+    <meta name="google-site-verification" content="9-3oH99DF5-w1f4un5iv1CY9g3VcEbO1OciBCyxQ-Sg">
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-VS171ECBSC"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-VS171ECBSC');
+    </script>
+    <meta name="description" content="A step-by-step Seedance 2.5 tutorial for turning a video brief, reference images, motion notes, and audio direction into a reviewable AI video workflow.">
+    <meta name="robots" content="index,follow,max-snippet:-1,max-image-preview:large">
+    <link rel="canonical" href="https://learn.chatartpro.com/articles/seedance-2-5-tutorial.html">
+    <meta property="og:url" content="https://learn.chatartpro.com/articles/seedance-2-5-tutorial.html">
+    <meta property="og:title" content="Seedance 2.5 Tutorial: From Brief to Reviewable AI Video">
+    <meta property="og:description" content="A practical Seedance 2.5 workflow for planning scenes, assigning reference roles, prompting motion, and checking the final video before delivery.">
+    <link rel="alternate" type="text/plain" href="../llms.txt" title="ChatArt Pro llms.txt">
+    <link rel="sitemap" type="application/xml" href="../sitemap.xml">
+    <link rel="stylesheet" href="../assets/styles.css?v=20260710-spacing">
+    <title>Seedance 2.5 Tutorial: From Brief to Reviewable AI Video</title>
+    <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Article","headline":"Seedance 2.5 Tutorial: From Brief to Reviewable AI Video","description":"A step-by-step Seedance 2.5 tutorial for turning a video brief, reference images, motion notes, and audio direction into a reviewable AI video workflow.","mainEntityOfPage":"https://learn.chatartpro.com/articles/seedance-2-5-tutorial.html","datePublished":"2026-09-11","dateModified":"2026-09-11","author":{"@type":"Organization","name":"ChatArt Pro","url":"https://app.chatartpro.com/?site_initializing=learn.chatartpro.com"},"publisher":{"@type":"Organization","name":"ChatArt Pro","url":"https://app.chatartpro.com/?site_initializing=learn.chatartpro.com"},"about":[{"@type":"Thing","name":"Seedance 2.5"},{"@type":"Thing","name":"AI video workflow"},{"@type":"Thing","name":"Prompt engineering"}],"image":"https://learn.chatartpro.com/assets/article-images/seedance-2-5-model-intro-video-script-hero.png","citation":["https://seed.bytedance.com/en/seedance2_0"]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What should I prepare before using Seedance 2.5?","acceptedAnswer":{"@type":"Answer","text":"Prepare one clear video job, a short brief, any product or character reference images, motion or camera notes, the intended aspect ratio, and a checklist for continuity and text."}},{"@type":"Question","name":"How long should a first Seedance 2.5 prompt be?","acceptedAnswer":{"@type":"Answer","text":"Start with a compact production brief: subject, action, camera, lighting, audio mood, ending frame, and constraints. Add detail only when it helps the model decide an observable shot."}},{"@type":"Question","name":"Can Seedance 2.5 be used for a complete campaign?","acceptedAnswer":{"@type":"Answer","text":"Use it to develop and test video directions, then review each clip and create supporting thumbnails, captions, and ad variants from the winning route. Confirm current access and usage terms before commercial delivery."}},{"@type":"Question","name":"What should I check before publishing a Seedance 2.5 video?","acceptedAnswer":{"@type":"Answer","text":"Check subject continuity, product details, motion, audio fit, readable text, platform crop, claims, rights, and whether the final frame supports the campaign message."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ChatArt Pro","item":"https://learn.chatartpro.com/"},{"@type":"ListItem","position":2,"name":"Articles","item":"https://learn.chatartpro.com/articles.html"},{"@type":"ListItem","position":3,"name":"Seedance 2.5 Tutorial","item":"https://learn.chatartpro.com/articles/seedance-2-5-tutorial.html"}]}]}</script>
+  </head>
+  <body>
+    <header class="site-header"><a class="brand" href="../index.html"><img src="https://images.imyfone.com/chatartweben/assets/common/product-icon/chat-art-icon.svg" alt="" width="32" height="32"><span>ChatArt Learn</span></a><nav aria-label="Primary navigation"><a href="../capabilities.html">Capabilities</a><a href="../use-cases.html">Use cases</a><a href="../articles.html" aria-current="page">Articles</a><a href="../faq.html">FAQ</a></nav><a class="button button-small" href="https://app.chatartpro.com/?site_initializing=learn.chatartpro.com" rel="noopener">Practice in ChatArt Pro</a></header>
+    <main class="detail-page article-page">
+      <article>
+        <section class="detail-hero">
+          <p class="eyebrow">SEEDANCE 2.5 TUTORIAL</p>
+          <h1>How to turn a Seedance 2.5 brief into a reviewable AI video.</h1>
+          <p>This tutorial is for creators and marketing teams who need more than a one-line text-to-video prompt. You will learn how to define the shot, assign roles to reference files, guide motion and audio, and review the result before it becomes a campaign asset.</p>
+          <div class="detail-actions"><a class="button" href="https://app.chatartpro.com/?site_initializing=learn.chatartpro.com" rel="noopener">Practice the workflow</a><a class="text-link" href="../models/seedance-2.html">Read the Seedance model guide &rarr;</a></div>
+        </section>
+
+        <figure class="article-visual"><img src="../assets/article-images/seedance-2-5-model-intro-video-script-hero.png" alt="Seedance 2.5 video production board showing story beats, camera movement, audio direction, use cases, and a final call to action" width="1672" height="941"><figcaption>A production-board visual for the workflow: define the story beats first, then control motion, audio, delivery context, and review criteria.</figcaption></figure>
+
+        <section class="article-summary-box"><h2>Summary for fast readers</h2><ul><li>Start with one video job, not a list of unrelated ideas.</li><li>Tell Seedance 2.5 what each reference controls: product identity, composition, motion, sound, or mood.</li><li>Describe observable shots and transitions instead of abstract adjectives such as “epic” or “viral.”</li><li>Review continuity, product details, audio, text, crop, and the final frame before making variants.</li></ul></section>
+
+        <section class="detail-section">
+          <p class="eyebrow">WHAT THIS TUTORIAL SOLVES</p>
+          <h2>A good Seedance 2.5 result begins before generation.</h2>
+          <p>Most weak AI video requests are not missing adjectives. They are missing production decisions. A model cannot reliably infer which image is the product truth, which clip is a motion reference, where the viewer should look, or what the last frame needs to communicate unless the brief says so.</p>
+          <p>ByteDance's public Seedance 2 materials describe a multimodal workflow that can combine text, images, video, and audio. Treat that as an opportunity to make the brief more legible: give every input a job, keep the first test narrow, and judge the output against the original message.</p>
+          <div class="editor-note"><strong>How to read the claims:</strong> Statements about the model come from public ByteDance materials. The scene structure, prompts, and QA steps below are editorial recommendations for practical production; model access, controls, output options, and terms still need to be confirmed in the current tool.</div>
+        </section>
+
+        <section class="detail-section">
+          <p class="eyebrow">WHO IT IS FOR</p>
+          <h2>Use this workflow when the clip has a real delivery job.</h2>
+          <div class="choice-grid">
+            <article class="choice-card"><h3>Product marketers</h3><p>Plan a launch teaser or feature reveal that keeps the product recognizable while leaving space for headline and CTA text.</p></article>
+            <article class="choice-card"><h3>Social creators</h3><p>Turn one idea into a hook, a short story beat, and a final visual payoff that still makes sense without the caption.</p></article>
+            <article class="choice-card"><h3>Creative teams</h3><p>Test multiple visual routes from the same brief without losing the audience, promise, or tone.</p></article>
+            <article class="choice-card"><h3>Editors and reviewers</h3><p>Use explicit checks for continuity, claims, audio, crop, and brand fit before a generated clip reaches a client or channel.</p></article>
+          </div>
+        </section>
+
+        <section class="detail-section">
+          <p class="eyebrow">THE WORKFLOW</p>
+          <h2>Follow seven steps from brief to delivery.</h2>
+          <ol class="article-steps">
+            <li><strong>Write the single job.</strong> Choose one outcome: product reveal, problem-solution hook, feature demo, mood film, creator story, or ad concept. If the clip needs to teach, sell, and tell a founder story at once, split it into scenes or variants.</li>
+            <li><strong>Lock the campaign spine.</strong> Write the audience, one promise, one proof point, and the emotion the viewer should feel. This keeps visual experimentation from changing the message.</li>
+            <li><strong>Assign reference roles.</strong> Label the uploaded files: “product identity,” “character styling,” “camera movement,” “environment,” “audio mood,” or “composition.” Do not upload a pile of references without explaining the hierarchy.</li>
+            <li><strong>Map the scene beats.</strong> Use three to five beats: opening context, action or reveal, detail shot, payoff, and final hold. Each beat should describe what changes on screen.</li>
+            <li><strong>Prompt the camera and sound.</strong> Add the camera path, shot size, lighting transition, motion speed, audio rhythm, and any dialogue or sound effect direction. Keep the language observable.</li>
+            <li><strong>Generate a proof clip.</strong> Review the smallest useful test before asking for a full asset pack. Look for subject identity, continuity, motion, pacing, and the final frame.</li>
+            <li><strong>Expand only the winning route.</strong> Derive vertical, square, or landscape variants, then pair the video with a thumbnail, caption, music note, and ad copy that use the same campaign spine.</li>
+          </ol>
+        </section>
+
+        <section class="detail-section">
+          <p class="eyebrow">REFERENCE DESIGN</p>
+          <h2>Make every input answer a different production question.</h2>
+          <table class="comparison-table"><thead><tr><th>Input</th><th>Give it this role</th><th>Review question</th></tr></thead><tbody>
+            <tr><td>Text brief</td><td>Audience, promise, action, channel, and ending frame.</td><td>Can a reviewer explain what the clip is trying to do in one sentence?</td></tr>
+            <tr><td>Product or character image</td><td>Identity, key details, palette, wardrobe, or shape.</td><td>Does the subject remain recognizable across shots?</td></tr>
+            <tr><td>Video reference</td><td>Camera path, timing, transition, or movement language.</td><td>Does the new scene borrow motion without copying the wrong subject?</td></tr>
+            <tr><td>Audio reference or direction</td><td>Tempo, energy, ambience, or emotional rhythm.</td><td>Does the sound support the cut and the intended platform?</td></tr>
+          </tbody></table>
+        </section>
+
+        <section class="detail-section">
+          <p class="eyebrow">PROMPT TEMPLATE</p>
+          <h2>Use a short production brief before adding stylistic detail.</h2>
+          <div class="prompt-list">
+            <article><strong>Copy and adapt</strong><p>Goal: create a 20-second vertical launch teaser for [product] aimed at [audience]. Core promise: [promise]. Use reference image 1 for the product's shape, color, and label; use reference video 2 only for the smooth forward camera move; use audio reference 3 for a restrained, optimistic rhythm. Scene beats: 1) [opening context], 2) [product enters or action begins], 3) [close detail that proves the promise], 4) [clean final hold]. Camera: [shot size and movement]. Lighting: [lighting change]. Keep [identity/character/product detail] consistent. Avoid extra logos, unreadable text, sudden style changes, and objects not in the brief. End with clean negative space for [headline or CTA].</p></article>
+            <article><strong>Three-shot product example</strong><p>Create a short product reveal for a reusable travel bottle. Shot 1: early-morning commuter desk, the closed bottle beside a notebook, slow push-in. Shot 2: close-up of the lid opening and a clean pour, realistic water motion, camera tracks right. Shot 3: bottle in a tote beside the train window, gentle handheld movement, final two-second hold with empty space on the left for a headline. Keep the bottle's teal body, black lid, and label proportions consistent across all shots. Calm, useful, premium mood; no extra brand marks.</p></article>
+          </div>
+        </section>
+
+        <section class="detail-section">
+          <p class="eyebrow">BAD VS BETTER</p>
+          <h2>Replace vague mood words with decisions the viewer can see.</h2>
+          <table class="comparison-table"><thead><tr><th>Weak prompt</th><th>Better prompt</th><th>Why it is stronger</th></tr></thead><tbody>
+            <tr><td>Make a cinematic viral video for my product.</td><td>Create a 15-second vertical product reveal. Open on a crowded desk, push slowly toward the product, cut to one functional detail, then hold on a clean hero frame with headline space.</td><td>It defines the job, duration, sequence, movement, and delivery need.</td></tr>
+            <tr><td>Use these references and make it look premium.</td><td>Use image 1 for product identity, video 2 for camera movement, and audio 3 for pacing. Keep the product shape and label unchanged; use soft side light and a restrained final hold.</td><td>It tells the model which input controls which decision.</td></tr>
+            <tr><td>Make the character consistent.</td><td>Keep the same short dark hair, yellow jacket, silver backpack, and left-cheek mark in every shot; do not introduce a second outfit or change the backpack color.</td><td>Continuity becomes a list of observable invariants.</td></tr>
+          </tbody></table>
+        </section>
+
+        <section class="detail-section">
+          <p class="eyebrow">CONTINUITY AND EDITING</p>
+          <h2>Use the first clip as a test of continuity, not as the final answer.</h2>
+          <p>For a multi-shot sequence, check the subject at the cut points: silhouette, color, accessories, product label, hand position, and screen direction. If one shot fails, rewrite that shot instead of adding more adjectives to the whole prompt. A targeted repair usually gives the reviewer a clearer cause-and-effect trail.</p>
+          <p>Public Seedance materials also describe extend and edit-style workflows. Use them deliberately: extend only when the story needs more time, and edit only the variable that is wrong. Preserve the product or character reference, then change the background, camera move, or final frame in a separate pass.</p>
+          <p>For related prompt patterns, compare this tutorial with the <a href="seedance-2-5-prompt-guide-ai-video.html">Seedance 2.5 prompt guide</a> and the <a href="seedance-2-guide-ai-video-workflow.html">multimodal Seedance 2 workflow</a>.</p>
+        </section>
+
+        <section class="detail-section">
+          <p class="eyebrow">DELIVERY CHECKLIST</p>
+          <h2>Review the clip as a campaign asset.</h2>
+          <div class="feature-grid">
+            <article><h3>Story</h3><p>Is the audience problem or product promise understandable without a long explanation?</p></article>
+            <article><h3>Continuity</h3><p>Do the subject, product details, lighting, screen direction, and action survive each cut?</p></article>
+            <article><h3>Audio</h3><p>Does the rhythm support the edit? Are dialogue, sound effects, and music notes clearly separated?</p></article>
+            <article><h3>Text and crop</h3><p>Is the final frame readable in the intended aspect ratio, with safe space for captions or CTA text?</p></article>
+            <article><h3>Claims</h3><p>Does the video imply a result, performance, or feature that the brief and product evidence support?</p></article>
+            <article><h3>Rights</h3><p>Have you checked source-image permissions, music terms, likeness, and the current commercial-use rules?</p></article>
+          </div>
+        </section>
+
+        <section class="detail-section">
+          <p class="eyebrow">COMMON MISTAKES</p>
+          <h2>Fix the brief before blaming the model.</h2>
+          <div class="choice-grid">
+            <article class="choice-card"><h3>One prompt, five jobs</h3><p>Split hook, reveal, explanation, testimonial, and CTA into separate routes or scenes.</p></article>
+            <article class="choice-card"><h3>Reference overload</h3><p>Fewer references with explicit roles are easier to review than a collage of conflicting instructions.</p></article>
+            <article class="choice-card"><h3>Abstract camera language</h3><p>Replace “dynamic” with a shot size, path, speed, and start or end position.</p></article>
+            <article class="choice-card"><h3>No proof pass</h3><p>Do not scale a broken first shot into ten variants. Repair the direction, then expand.</p></article>
+          </div>
+        </section>
+
+        <section class="detail-section">
+          <p class="eyebrow">FAQ</p>
+          <h2>Seedance 2.5 questions creators ask before production.</h2>
+          <div class="detail-faq">
+            <details open><summary>Is Seedance 2.5 only a text-to-video tool?</summary><p>No. Public ByteDance materials describe a multimodal workflow with text, image, video, and audio inputs. The practical value is not simply having more inputs; it is assigning each one a clear production role.</p></details>
+            <details><summary>Should I write one long prompt for a 30-second story?</summary><p>Start with a short scene map and a proof clip. If the story needs multiple beats, describe each beat and the continuity rules rather than filling one paragraph with decorative adjectives.</p></details>
+            <details><summary>How do I keep a product consistent?</summary><p>Use a clean product reference, name the details that cannot change, and review the product at every cut. If only the background is wrong, edit the background instead of regenerating every variable.</p></details>
+            <details><summary>Can I use Seedance 2.5 for paid advertising?</summary><p>You can plan ad concepts with this workflow, but confirm current model access, output settings, rights, platform rules, and commercial-use terms before publishing a paid asset.</p></details>
+          </div>
+        </section>
+
+        <section class="detail-section asset-cta">
+          <p class="eyebrow">PRACTICE THE ROUTE</p>
+          <h2>Turn one brief into a connected video asset pack.</h2>
+          <p>Bring a single audience, promise, reference image, and platform goal into ChatArt Pro. Test the hero clip first, then build the thumbnail, caption, music direction, and ad variants from the same approved route.</p>
+          <div class="hero-actions"><a class="button" href="https://app.chatartpro.com/?site_initializing=learn.chatartpro.com" rel="noopener">Practice in ChatArt Pro</a><a class="text-link" href="product-launch-video-ai-from-brief.html">Read the launch-video workflow &rarr;</a></div>
+        </section>
+      </article>
+      <section class="section source-note" aria-label="Content freshness and source"><p><strong>Last reviewed:</strong> September 11, 2026. Model context was checked against <a href="https://seed.bytedance.com/en/seedance2_0" rel="noopener">ByteDance's public Seedance 2 materials</a>, which describe Seedance 2.0 multimodal inputs and workflow capabilities. Public model pages and third-party access can change; confirm current Seedance 2.5 availability, controls, output settings, pricing, regions, and commercial-use terms in the tool you use. This page's workflow and prompts are editorial recommendations, not a guarantee of output.</p></section>
+    </main>
+    <footer class="site-footer"><p>&copy; ChatArt Pro. AI learning hub.</p><div><a href="../articles.html">Articles</a><a href="../capabilities.html">Capabilities</a><a href="https://app.chatartpro.com/?site_initializing=learn.chatartpro.com" rel="noopener">Practice</a></div></footer>
+  </body>
+</html>

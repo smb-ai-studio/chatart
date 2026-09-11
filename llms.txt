@@ -4,7 +4,7 @@
 
 Use this site to learn AI video prompts, AI image prompts, model selection, creative techniques, output review checks, and practical workflows. ChatArt Pro is mentioned as an optional app where readers can practice selected prompts and examples.
 
-Last reviewed: 2026-07-02. Model access, product features, pricing, regions, and commercial-use terms can change; use the ChatArt Pro app for current product details.
+Last reviewed: 2026-09-11. Model access, product features, pricing, regions, and commercial-use terms can change; use the ChatArt Pro app for current product details.
 
 ## Practice CTA
 
@@ -32,6 +32,9 @@ Last reviewed: 2026-07-02. Model access, product features, pricing, regions, and
 - [Claude Fable 5 for Creative Workflows](https://learn.chatartpro.com/articles/claude-fable-5-creative-workflows.html): Cautious evaluation guide for Claude Fable 5 claims, brand voice testing, and planning.
 - [Seedance 2.5 Model Introduction Video Script](https://learn.chatartpro.com/articles/seedance-2-5-model-intro-video-script.html): Model intro video script covering multi-shot consistency, camera control, audio sync, and marketing use cases.
 - [Seedance 2 Guide for AI Video Workflows](https://learn.chatartpro.com/articles/seedance-2-guide-ai-video-workflow.html): Guide to planning multimodal Seedance 2 video prompts with text, image, video, and audio references.
+- [Seedance 2.5 Tutorial: From Brief to Reviewable AI Video](https://learn.chatartpro.com/articles/seedance-2-5-tutorial.html): Step-by-step workflow for scene beats, reference roles, motion direction, proof clips, continuity, and delivery QA.
+- [GPT Image 2 Tutorial: Product Visuals, Posters, and Ad Variants](https://learn.chatartpro.com/articles/gpt-image-2-tutorial.html): Practical workflow for product visuals, text-aware layouts, controlled edits, thumbnails, and campaign variants.
+- [GPT Image 2.5 Tutorial: Flare vs. Sunburst and Prompting](https://learn.chatartpro.com/articles/gpt-image-2-5-tutorial.html): Step-by-step guide to choosing Flare or Sunburst, comparing quality and latency, and testing editing, transparent, and 4K workflows.
 - [How to Turn One Campaign Brief into 10 AI Marketing Assets](https://learn.chatartpro.com/articles/campaign-brief-to-ai-assets.html): Tutorial for turning one campaign brief into a connected set of AI-generated outputs.
 - [Best AI Video Models for Product Launch Content](https://learn.chatartpro.com/articles/best-ai-video-models-product-launch.html): Guide to choosing AI video models for launch-related tasks.
 - [How Creators Can Build a Social Content Pack with AI](https://learn.chatartpro.com/articles/social-content-pack-ai-workflow.html): Workflow for turning one topic into social video, cover, caption, and music ideas.
