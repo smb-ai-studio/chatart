@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">AI manga drama production workflow</title>
+  <desc id="desc">A four-stage workflow from story brief to manga panels, motion clips, and a review checklist.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#fbfbf8"/>
+      <stop offset="1" stop-color="#e9eee9"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#111" flood-opacity=".12"/>
+    </filter>
+  </defs>
+  <rect width="1600" height="900" fill="#f4f4f1"/>
+  <path d="M0 760 C300 680 390 840 700 755 S1180 660 1600 735 V900 H0Z" fill="#dce9e0"/>
+  <g filter="url(#shadow)">
+    <rect x="90" y="100" width="1420" height="680" rx="26" fill="url(#paper)" stroke="#111" stroke-opacity=".12"/>
+  </g>
+  <g font-family="Inter, Arial, sans-serif" fill="#111">
+    <text x="150" y="175" font-size="22" font-weight="700" letter-spacing="4">AI MANGA DRAMA / PRODUCTION MAP</text>
+    <text x="150" y="215" font-size="18" fill="#626262">Keep story, character identity, panel composition, motion, and delivery checks connected.</text>
+  </g>
+  <g stroke="#111" stroke-opacity=".18" fill="#fff">
+    <rect x="150" y="300" width="260" height="320" rx="16"/>
+    <rect x="475" y="300" width="260" height="320" rx="16"/>
+    <rect x="800" y="300" width="260" height="320" rx="16"/>
+    <rect x="1125" y="300" width="260" height="320" rx="16"/>
+  </g>
+  <g font-family="Inter, Arial, sans-serif" fill="#111">
+    <g font-size="16" font-weight="700" letter-spacing="2">
+      <text x="180" y="345">01 / STORY</text>
+      <text x="505" y="345">02 / PANELS</text>
+      <text x="830" y="345">03 / MOTION</text>
+      <text x="1155" y="345">04 / QA</text>
+    </g>
+    <g font-size="27" font-weight="700">
+      <text x="180" y="405">Brief</text>
+      <text x="505" y="405">Storyboard</text>
+      <text x="830" y="405">Animate</text>
+      <text x="1155" y="405">Review</text>
+    </g>
+    <g font-size="16" fill="#626262">
+      <text x="180" y="450">Theme, audience,</text>
+      <text x="180" y="474">conflict, ending.</text>
+      <text x="505" y="450">Shot beats, bubbles,</text>
+      <text x="505" y="474">character anchors.</text>
+      <text x="830" y="450">Camera, timing,</text>
+      <text x="830" y="474">voice, ambience.</text>
+      <text x="1155" y="450">Continuity, text,</text>
+      <text x="1155" y="474">rights, crop.</text>
+    </g>
+  </g>
+  <g stroke="#17c964" stroke-width="5" fill="none" stroke-linecap="round">
+    <path d="M410 460 H455"/>
+    <path d="M735 460 H780"/>
+    <path d="M1060 460 H1105"/>
+  </g>
+  <g fill="#17c964">
+    <path d="m450 447 20 13-20 13z"/>
+    <path d="m775 447 20 13-20 13z"/>
+    <path d="m1100 447 20 13-20 13z"/>
+  </g>
+  <g transform="translate(190 520)" stroke="#111" stroke-width="5" fill="none">
+    <circle cx="35" cy="30" r="22"/>
+    <path d="M20 64c8-14 22-14 30 0M35 8v-20M13 30H-8M57 30h20"/>
+  </g>
+  <g transform="translate(515 520)" stroke="#111" stroke-width="5" fill="none">
+    <rect x="0" y="0" width="56" height="52" rx="5"/>
+    <path d="m9 42 14-17 12 11 10-13 11 19M12 12h16"/>
+  </g>
+  <g transform="translate(840 520)" stroke="#111" stroke-width="5" fill="none">
+    <circle cx="28" cy="28" r="25"/>
+    <path d="m22 13 18 15-18 15z"/>
+  </g>
+  <g transform="translate(1165 520)" stroke="#111" stroke-width="5" fill="none">
+    <path d="m0 30 18 18 42-47"/>
+  </g>
+  <g font-family="Source Serif 4, Georgia, serif" font-size="34" font-style="italic" fill="#111">
+    <text x="150" y="715">A repeatable chain beats a one-click result.</text>
+  </g>
+</svg>

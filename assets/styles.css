@@ -84,6 +84,9 @@ body.home-redesign {
 .home-hero h1 sup { margin-left: 3px; font: 600 22px/1 Inter, sans-serif; letter-spacing: 0; vertical-align: super; }
 .home-hero-subtitle { max-width: 560px; margin: 0 auto; color: #4f4f4f; font-size: 17px; line-height: 1.5; letter-spacing: -.025em; }
 .home-hero-actions { display: flex; justify-content: center; align-items: center; gap: 14px; margin-top: 32px; }
+.home-hero-link { margin-top: 30px; }
+.home-final-note { margin: 24px 0 0; color: rgba(255,255,255,.72); font-size: 14px; }
+.home-final-note strong { color: #fff; }
 .home-button { display: inline-flex; align-items: center; justify-content: center; gap: 18px; min-height: 56px; border-radius: 999px; padding: 16px 24px; text-decoration: none; font-size: 14px; font-weight: 600; letter-spacing: -.02em; transition: transform .2s ease, box-shadow .2s ease, background .2s ease; }
 .home-button:hover { transform: translateY(-2px); }
 .home-button span:last-child { font-size: 18px; line-height: 1; }

@@ -38,6 +38,7 @@ Last reviewed: 2026-09-11. Model access, product features, pricing, regions, and
 - [How to Turn One Campaign Brief into 10 AI Marketing Assets](https://learn.chatartpro.com/articles/campaign-brief-to-ai-assets.html): Tutorial for turning one campaign brief into a connected set of AI-generated outputs.
 - [Best AI Video Models for Product Launch Content](https://learn.chatartpro.com/articles/best-ai-video-models-product-launch.html): Guide to choosing AI video models for launch-related tasks.
 - [How Creators Can Build a Social Content Pack with AI](https://learn.chatartpro.com/articles/social-content-pack-ai-workflow.html): Workflow for turning one topic into social video, cover, caption, and music ideas.
+- [How to Make an AI Manga Drama from One Story Brief](https://learn.chatartpro.com/articles/ai-manga-drama-workflow.html): Practical story-to-video workflow for character consistency, storyboard panels, motion, voice, sound, and delivery checks.
 
 ## Model Explainers
 
