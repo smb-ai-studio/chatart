@@ -67,7 +67,7 @@ body.home-redesign {
 .home-nav-links a:hover { color: var(--home-text); }
 .home-menu-button { display: inline-flex; align-items: center; gap: 9px; border-radius: 999px; padding: 11px 15px 11px 18px; background: var(--home-text); color: white; font: 500 13px/1 Inter, sans-serif; text-decoration: none; transition: transform .2s ease, background .2s ease; }
 .home-menu-button:hover { color: white; transform: translateY(-2px); background: #252525; }
-.home-chevron { display: inline-grid; place-items: center; width: 18px; height: 18px; border-radius: 50%; background: white; color: var(--home-text); font-size: 16px; line-height: 1; transition: transform .3s ease; }
+.home-chevron { display: inline-grid; place-items: center; flex: 0 0 18px; width: 18px; height: 18px; border-radius: 50%; background: white; color: #0a0a0a; font-family: Arial, sans-serif; font-size: 15px; font-weight: 700; line-height: 1; transition: transform .3s ease; }
 .home-hero { position: relative; min-height: 850px; display: grid; place-items: center; overflow: hidden; padding: 160px 36px 120px; isolation: isolate; background: #d8dbd5 url("https://images.higgs.ai/?default=1&output=webp&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser_38xzZboKViGWJOttwIXH07lWA1P%2Fhf_20260626_041422_4a459e05-abce-4150-9fb7-4ededc423cd1.png&w=1280&q=85") center/cover no-repeat; }
 .home-hero::before { content: ""; position: absolute; z-index: -2; inset: 0; background: rgba(255, 255, 255, .48); }
 .home-hero::after { content: ""; position: absolute; z-index: -1; inset: 0; background: linear-gradient(180deg, rgba(255,255,255,.72) 0%, rgba(255,255,255,.26) 44%, rgba(255,255,255,.9) 100%); }
